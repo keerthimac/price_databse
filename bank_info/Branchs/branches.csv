@@ -1,0 +1,3842 @@
+bank_code,branch_code,branch_location
+7010,1,City Office
+7010,2,Kandy
+7010,3,Galle Fort
+7010,4,Pettah
+7010,5,Jaffna
+7010,6,Trincomalee
+7010,7,Panadura
+7010,9,Kurunegala
+7010,11,Badulla
+7010,12,Batticaloa
+7010,15,Central Office 
+7010,16,Kalutara S/G
+7010,18,Negombo
+7010,20,Chilaw
+7010,21,Ampara
+7010,22,Anuradhapura
+7010,23,Wellawatte
+7010,24,Matara
+7010,26,Main Street
+7010,27,Kegalle
+7010,28,Point Pedro
+7010,29,Nuwara Eliya
+7010,30,Katubedda
+7010,31,Ratnapura
+7010,32,Aluthkade
+7010,34,Kollupitiya
+7010,35,Haputale
+7010,37,Bambalapitiya
+7010,38,Borella S/G
+7010,39,Ja-Ela
+7010,40,Hatton
+7010,41,Maradana
+7010,42,Peliyagoda
+7010,43,Union Place
+7010,44,Vavuniya
+7010,45,Gampaha S/G
+7010,46,Mannar
+7010,47,Ambalangoda
+7010,48,Puttalam
+7010,49,Nugegoda Supergrade
+7010,50,Nattandiya
+7010,51,Dehiwala
+7010,52,Kuliyapitiya
+7010,53,Chunnakam
+7010,54,Horana
+7010,55,Maharagama
+7010,56,Tangalle
+7010,57,Eheliyagoda
+7010,58,Beruwala
+7010,59,Kadawatha
+7010,60,Fifth City
+7010,61,Moratuwa
+7010,63,Velanai
+7010,68,Matale
+7010,82,Monaragala
+7010,83,Polonnaruwa New Town
+7010,85,Hambantota
+7010,87,International Division
+7010,88,Mirigama
+7010,89,Galle Bazaar
+7010,92,Naula
+7010,93,Kilinochchi
+7010,98,Anuradhapura New Town
+7010,99,Primary Dealer Unit
+7010,101,Galaha
+7010,102,Bentota
+7010,104,Welpalla
+7010,118,Muttur
+7010,122,Galenbindunuwewa
+7010,127,Padavi Parakramapura
+7010,135,Imaduwa
+7010,139,Weeraketiya
+7010,144,Yatawatte
+7010,152,Pemaduwa
+7010,157,Tirappane
+7010,162,Medawachchiya
+7010,167,Rikillagaskada
+7010,172,Kobeigane
+7010,183,Sewagama
+7010,217,Horowpathana
+7010,236,Ipalogama
+7010,238,Medagama
+7010,250,Tawalama
+7010,255,Malkaduwawa
+7010,256,Thanthirimale
+7010,257,Mawathagama
+7010,258,Elakanda
+7010,259,Rathgama
+7010,260,Diyatalawa
+7010,261,Katuwana
+7010,262,Kekanadura
+7010,263,Kosmodera
+7010,264,Kudawella
+7010,265,Lunugamvehera
+7010,266,Maha Edanda
+7010,267,Makandura-Matara
+7010,268,Malimbada
+7010,270,Morawaka
+7010,271,Pasgoda
+7010,272,Pitabeddara
+7010,273,Digana
+7010,274,Weli-Oya
+7010,276,Ahangama
+7010,277,Aluthwala
+7010,278,Barawakumbura
+7010,280,Karapitiya
+7010,281,Manipay
+7010,282,Kitulgala
+7010,283,Kolonna
+7010,284,Kotiyakumbura
+7010,285,Morontota
+7010,286,Sabaragamuwa University
+7010,287,Pinnawala
+7010,288,Sabaragamuwa Provincial Council
+7010,290,Seethawakapura
+7010,291,Udawalawe
+7010,292,Weligepola
+7010,293,Dodangoda
+7010,294,Karawanella
+7010,295,Karawita
+7010,297,Kegalle Hospital
+7010,298,Urubokka
+7010,299,Makandura
+7010,300,Marawila
+7010,301,Palaviya
+7010,302,Pallama
+7010,303,Paragahadeniya
+7010,305,Thoduwawa
+7010,306,Udappuwa
+7010,307,Wayamba University
+7010,308,Weerapokuna
+7010,309,Wellawa
+7010,311,Bulathkohupitiya
+7010,312,Embilipitiya City
+7010,313,Endana
+7010,314,Galigamuwa
+7010,315,Ratnapura Hospital
+7010,316,Gonagaldeniya
+7010,317,Kiriella
+7010,318,Potuvil
+7010,319,Mahawewa
+7010,320,Ballaketuwa
+7010,322,Thanamalwila
+7010,323,Kochchikade
+7010,324,Kumbukgete
+7010,325,Kuruwita
+7010,326,Thirumurukandi
+7010,328,Visuvamadu
+7010,329,Ambanpola
+7010,330,Anawilundawa
+7010,331,Dambadeniya
+7010,332,Katuneriya
+7010,333,Katupotha
+7010,334,Kirimetiyana
+7010,335,Mihintale
+7010,336,Thalaimannar Pier
+7010,337,Pussellawa
+7010,338,Savalkaddu
+7010,339,Sirupiddy
+7010,340,Wattegama
+7010,341,Puthukudieruppu
+7010,342,Puthukulam
+7010,343,Uva Paranagama
+7010,344,Pesalai
+7010,345,Poonagary
+7010,346,Poovarasankulam
+7010,347,Punnalaikadduvan
+7010,348,Padiyatalawa
+7010,349,Mallavi
+7010,351,Manthikai
+7010,352,Maruthankerny
+7010,353,Mulankavil
+7010,355,Mullativu
+7010,356,Murungan
+7010,357,Nainativu
+7010,358,Nallur
+7010,359,Nanatan
+7010,360,Nedunkerny
+7010,361,Oddusudan
+7010,362,Omanthai
+7010,363,Pallai
+7010,364,Paranthan
+7010,365,Hasalaka
+7010,366,Jaffna Bus Stand
+7010,368,Jaffna Main Street
+7010,369,Jaffna University
+7010,370,Kaithady
+7010,371,Kalviyankadu
+7010,372,Karanavai
+7010,373,Kayts
+7010,375,Kodikamam
+7010,376,Kokuvil
+7010,377,Illavalai
+7010,378,Madhu
+7010,379,Wariyapola
+7010,380,Alaveddy
+7010,381,Andankulam
+7010,382,Cheddikulam
+7010,383,Delft
+7010,384,Meegahakiwula
+7010,385,Vavunathivu
+7010,386,Vellaveli
+7010,388,Diyabeduma
+7010,389,Diyasenpura
+7010,390,Doramadalawa
+7010,391,Galamuna
+7010,392,General Hospital-Anuradhapur
+7010,393,Habarana
+7010,394,Minneriya
+7010,395,Padaviya
+7010,396,Rajanganaya
+7010,397,Rajina Junction
+7010,398,Ranajayapura
+7010,399,Sevanapitiya
+7010,400,Thalawa
+7010,401,Ayagama
+7010,402,Oddamavady
+7010,403,Oluwil
+7010,404,Palugamam
+7010,405,Polwatte
+7010,406,Palmuddai
+7010,407,Sainthamarathu
+7010,408,Serunuwara
+7010,409,Thambiluvil
+7010,410,Thampalakamam
+7010,411,Thoppur
+7010,413,Uhana
+7010,414,Uppuvely
+7010,415,Vakarai
+7010,416,Siyambalanduwa
+7010,417,Mollipothana
+7010,418,Morawewa
+7010,419,Navithanvely
+7010,420,Nilavely
+7010,421,Seeduwa
+7010,422,Malwatte
+7010,423,Mamangama
+7010,424,Maruthamunai
+7010,425,Pundaluoya
+7010,426,Kallady
+7010,427,Kallar
+7010,428,Karadiyanaru
+7010,429,Karaitivu
+7010,430,Kiran
+7010,431,Kokkadicholai
+7010,432,Galewela
+7010,433,Divulapitiya
+7010,434,Wellawaya
+7010,436,China Bay
+7010,437,Eastern University
+7010,438,Gonagolla
+7010,439,Irakkamam
+7010,440,Samanthurai
+7010,441,Pujapitiya
+7010,442,Ragala
+7010,443,Sigiriya
+7010,444,Ukuwela
+7010,445,University Of Peradeniya
+7010,446,Upcott
+7010,447,Wilgamuwa
+7010,448,Addalachchenai
+7010,449,Alankerny
+7010,451,Araiyampathy
+7010,452,Batticaloa Town
+7010,453,Independent  Square
+7010,454,Kandy Hospital
+7010,455,Kotagala
+7010,456,Marassana
+7010,458,Meepilimana
+7010,459,Menikhinna
+7010,461,Palapathwela
+7010,462,Botanical Gardens Peradeniya
+7010,463,Haldummulla
+7010,464,BOI Pallekelle
+7010,465,Bokkawala
+7010,466,Danture
+7010,467,Daulagala
+7010,469,Digana Village
+7010,470,Gampola City
+7010,471,Ginigathhena
+7010,472,Hatharaliyadda
+7010,473,Kandy City Centre
+7010,474,Court Complex Kandy
+7010,476,Ettampitiya
+7010,477,Yatiyantota
+7010,487,Adikarigama
+7010,488,Agarapathana
+7010,489,Akurana
+7010,490,Ankumbura
+7010,491,Bogawantalawa
+7010,492,Padiyapelella
+7010,494,Andiambalama
+7010,497,Dankotuwa
+7010,498,Alawwa
+7010,499,Wijerama Junction
+7010,500,Jaffna 2nd Branch
+7010,501,Chavakachcheri
+7010,502,Kaduruwela
+7010,503,Passara
+7010,504,Devinuwara
+7010,505,Wattala
+7010,506,Maskeliya
+7010,507,Kahawatte
+7010,508,Wennappuwa
+7010,509,Hingurana
+7010,510,Kalmunai
+7010,511,Mulliyawalai
+7010,512,Thimbirigasyaya
+7010,513,Kurunegala Bazaar
+7010,514,Galnewa
+7010,515,Bandarawela
+7010,516,Thalawathugoda
+7010,517,Walasmulla
+7010,518,Middeniya
+7010,520,Sri Jayawardenapura Hospital
+7010,521,Hyde Park
+7010,522,Batapola
+7010,524,Gelioya
+7010,525,Baddegama
+7010,526,Polgahawela
+7010,527,Welisara
+7010,528,Deniyaya
+7010,529,Kamburupitiya
+7010,530,Avissawella
+7010,531,Talawakelle
+7010,532,Ridigama
+7010,533,Pitakotte
+7010,534,Narammala
+7010,535,Embilipitiya
+7010,536,Kegalle Bazaar
+7010,537,Ambalantota
+7010,538,Tissamaharama
+7010,539,Beliatta
+7010,540,Badalkumbura
+7010,541,Pelawatte City Kalutara
+7010,542,Mahiyangana
+7010,543,Kiribathgoda
+7010,544,Madampe
+7010,545,Minuwangoda
+7010,546,Pannala
+7010,547,Nikaweratiya
+7010,548,Anamaduwa
+7010,549,Galgamuwa
+7010,550,Weligama
+7010,551,Anuradhapura Bazzar
+7010,552,National Institute Of Education
+7010,553,Giriulla
+7010,554,Bingiriya
+7010,555,Melsiripura
+7010,556,Matugama
+7010,557,Moratumulla
+7010,558,Waikkal
+7010,559,Mawanella
+7010,560,Buttala
+7010,561,Dematagoda
+7010,562,Warakapola
+7010,563,Dharga Town
+7010,564,Maho
+7010,565,Madurankuliya
+7010,566,Aranayake
+7010,567,Dedicated Economic Centre-Meegoda
+7010,568,Homagama
+7010,569,Hiripitiya
+7010,570,Hettipola
+7010,571,Kirindiwela
+7010,572,Negombo Bazzar
+7010,573,Central Bus Stand
+7010,574,Mankulam
+7010,575,Gampola
+7010,576,Dambulla
+7010,577,Lunugala
+7010,578,Yakkalamulla
+7010,579,Bibile
+7010,580,Dummalasuriya
+7010,581,Madawala
+7010,582,Rambukkana
+7010,583,Mattegoda
+7010,584,Wadduwa
+7010,585,Ruwanwella
+7010,587,Pilimatalawa
+7010,588,Peradeniya
+7010,589,Kalpitiya
+7010,590,Akkaraipattu
+7010,591,Nintavur
+7010,592,Dikwella
+7010,593,Milagiriya
+7010,594,Rakwana
+7010,595,Kolonnawa
+7010,596,Talgaswela
+7010,597,Nivitigala
+7010,598,Nawalapitiya
+7010,599,Aralaganwila
+7010,600,Jayanthipura
+7010,601,Hingurakgoda
+7010,602,Kirulapana
+7010,603,Lanka Hospital
+7010,604,Ingiriya
+7010,605,Kankesanthurai
+7010,606,Udadumbara
+7010,607,Panadura Bazaar
+7010,608,Kaduwela
+7010,609,Hikkaduwa
+7010,610,Pitigala
+7010,611,Kaluwanchikudy
+7010,612,Lake View
+7010,613,Akuressa
+7010,614,Matara City
+7010,615,Galagedera
+7010,616,Kataragama
+7010,617,Keselwatte
+7010,618,Metropolitan
+7010,619,Elpitiya
+7010,620,Kesbewa
+7010,621,Kebithigollawa
+7010,622,Kahatagasdigiliya
+7010,623,Kantale Bazaar
+7010,624,Trincomalee Bazaar
+7010,625,Katukurunda
+7010,626,Valachchenai
+7010,627,Regent Street
+7010,628,Grandpass
+7010,629,Koslanda
+7010,630,Chenkalady
+7010,631,Katubedda Campus
+7010,633,Kandapola
+7010,634,Dehiowita
+7010,636,Lake House
+7010,638,Nelliady
+7010,639,Rattota
+7010,640,Pallepola
+7010,641,Medirigiriya
+7010,642,Deraniyagala
+7010,643,Gonapola
+7010,644,Parliamentary Complex
+7010,645,Kalawana
+7010,646,Boralesgamuwa
+7010,647,Lunuwatte
+7010,648,Kattankudy
+7010,649,Kandy 2nd
+7010,650,Talatuoya
+7010,651,Bombuwela
+7010,652,Bakamuna
+7010,653,Galkiriyagama
+7010,654,Madatugama
+7010,655,Tambuttegama
+7010,656,Nochchiyagama
+7010,657,Agalawatta
+7010,658,Katunayake I.P.Z.
+7010,659,Gurugoda
+7010,660,Corporate
+7010,662,Baduraliya
+7010,663,Kotahena
+7010,664,Pothuhera
+7010,665,Bandaragama
+7010,666,Katugastota
+7010,667,Neluwa
+7010,668,Borella  2nd
+7010,669,Girandurukotte
+7010,670,Kollupitiya 2nd
+7010,671,Isurupaya
+7010,672,Colombo Gold Center 
+7010,673,Bulathsinhala
+7010,674,Enderamulla
+7010,675,Nittambuwa
+7010,676,Kekirawa
+7010,677,Weliweriya
+7010,678,Padukka
+7010,679,Battaramulla
+7010,680,Aluthgama
+7010,681,Personal
+7010,682,Veyangoda
+7010,683,Pelmadulla
+7010,684,Ratnapura Bazaar
+7010,685,Ward Place
+7010,686,Dehiattakandiya
+7010,687,Raddolugama
+7010,688,Balangoda
+7010,689,Ratmalana
+7010,690,Pelawatta
+7010,691,Hakmana
+7010,692,Eppawala
+7010,693,Ruhunu Campus
+7010,699,Bogahakumbura
+7010,700,Dambagalla
+7010,701,Ella
+7010,702,Ethiliwewa
+7010,703,Keppetipola
+7010,705,Moneragala Town
+7010,706,Okkampitiya
+7010,707,Pelawatta
+7010,708,Batuwatte
+7010,711,Bopitiya
+7010,713,Asiri Central
+7010,714,Katuwellegama Courtaulds Clothing Lanka (Pvt) Ltd
+7010,715,Dalugama
+7010,716,Delgoda
+7010,717,Demanhandiya
+7010,718,Fish Market Peliyagoda
+7010,720,Ganemulla
+7010,721,Gothatuwa
+7010,722,Katana
+7010,723,Mulleriyawa New Town
+7010,724,Naiwala
+7010,728,Meegalewa
+7010,729,Badulla City
+7010,730,Welimada
+7010,731,Ceybank Credit card centre
+7010,732,Biyagama
+7010,733,Warapitiya
+7010,735,Kinniya
+7010,736,Piliyandala
+7010,741,Hanwella
+7010,743,Walapane
+7010,744,Walgama
+7010,746,Rajagiriya
+7010,747,Taprobane
+7010,748,Uragasmanhandiya
+7010,749,Karainagar
+7010,750,Koggala E.P.Z
+7010,751,Suriyawewa
+7010,752,Thihagoda
+7010,753,Udugama
+7010,754,Ahungalla
+7010,757,Athurugiriya
+7010,760,Treasury Division
+7010,761,Thirunelvely
+7010,762,Narahenpita
+7010,763,Malabe
+7010,764,Ragama
+7010,765,Pugoda
+7010,766,Mount Lavinia
+7010,767,Ranna
+7010,768,Alawathugoda
+7010,769,Yakkala
+7010,770,Ibbagamuwa
+7010,771,Kandana
+7010,772,Hemmathagama
+7010,773,Kottawa
+7010,774,Angunakolapelessa
+7010,775,Visakha
+7010,776,Islamic Banking Unit
+7010,777,Electronic Banking Unit
+7010,778,Atchuvely
+7010,779,Norchcholei
+7010,780,Kadawatha 2nd City
+7010,781,Teldeniya
+7010,782,Rambewa
+7010,783,Polpithigama
+7010,784,Deiyandara
+7010,785,Hali ela
+7010,786,Godakawela
+7010,787,Kopay
+7010,788,BOC premier
+7010,789,Makola
+7010,790,Eravur
+7010,791,Valvettithurai
+7010,792,Chankanai
+7010,793,Vavuniya City
+7010,794,Urumpirai
+7010,795,Boragas
+7010,796,Mattala Airport
+7010,797,Medawala
+7010,798,Thalduwa
+7010,799,Nelundeniya
+7010,800,Wanduramba
+7010,802,"Provincial Council Complex,Pallakelle"
+7010,803,Welioya-Sampath Nuwara
+7010,804,Vaddukoddai
+7010,805,Madawakkulama
+7010,806,Mahaoya
+7010,808,Bogaswewa
+7010,809,Kurunduwatte
+7010,810,Ethimale
+7010,811,Central Camp
+7010,812,Aladeniya
+7010,813,Kothalawala Defence University
+7010,814,Saliyawewa
+7010,815,Wahalkada
+7010,816,Pallebedda
+7010,817,Welikanda
+7010,818,Nagoda
+7010,819,Old Moor Street 
+7010,820,Unawatuna
+7010,821,Dombagahawela
+7010,822,Corporate 2nd
+7010,823,Sewanagala
+7010,824,Andiyagala
+7010,825,Laggala
+7010,826,Dunagaha 
+7010,827,Kandaketiya 
+7010,999,Head Office
+7038,1,Head Office
+7038,2,One Galle Face 
+7038,3,Wellawatte
+7038,4,Kiribathgoda
+7038,5,Kirullapone
+7038,6,Moratuwa
+7038,7,Rajagiriya
+7038,11,Priority Banking Centre
+7038,999,Head Office
+7047,1,Head Office
+7047,100,Cash Mgmt
+7047,999,Head Office
+7056,0,Head Office
+7056,1,Head Office
+7056,2,City Office
+7056,3,Foreign
+7056,4,Kandy
+7056,5,Galle Fort
+7056,6,Jaffna
+7056,7,Matara
+7056,8,Matale
+7056,9,Galewela
+7056,10,Wellawatte
+7056,11,Kollupitiya
+7056,12,Kotahena
+7056,13,Negombo
+7056,14,Hikkaduwa
+7056,15,Hingurakgoda
+7056,16,Kurunegala
+7056,17,Old Moor Street
+7056,18,Maharagama
+7056,19,Borella
+7056,20,Nugegoda
+7056,21,Kegalle
+7056,22,Narahenpita
+7056,23,Mutuwal
+7056,24,Pettah
+7056,25,Katunayake FTZ
+7056,26,Wennappuwa
+7056,27,Galle City
+7056,28,Koggala
+7056,29,Battaramulla
+7056,30,Embilipitiya
+7056,31,Kandana
+7056,32,Maradana
+7056,33,Minuwangoda
+7056,34,Nuwara Eliya
+7056,35,Akuressa
+7056,36,Kalutara
+7056,37,Trincomalee
+7056,38,Panchikawatte
+7056,39,Keyzer Street
+7056,40,Aluthgama
+7056,41,Panadura
+7056,42,Kaduwela
+7056,43,Chilaw
+7056,44,Gampaha
+7056,45,Katugastota
+7056,46,Ratmalana
+7056,47,Kirulapona
+7056,48,Union Place
+7056,49,Ratnapura
+7056,50,Colombo 07
+7056,51,Kuliyapitiya
+7056,52,Badulla
+7056,53,Anuradhapura
+7056,54,Dambulla
+7056,55,Nattandiya
+7056,56,Wattala
+7056,57,Grandpass
+7056,58,Dehiwala
+7056,59,Moratuwa
+7056,60,Narammala
+7056,61,Vavuniya
+7056,62,Rajagiriya
+7056,63,Ambalantota
+7056,64,Seeduwa
+7056,65,Nittambuwa
+7056,66,Mirigama
+7056,67,Kadawatha
+7056,68,Duplication Road
+7056,69,Kiribathgoda
+7056,70,Avissawella
+7056,71,Ekala 
+7056,72,Pettah Main Street
+7056,73,Peradeniya 
+7056,74,Kochchikade 
+7056,75,Homagama
+7056,76,Horana
+7056,77,Piliyandala
+7056,78,Thalawathugoda 
+7056,79,Mawanella
+7056,80,Bandarawela
+7056,81,Ja-Ela
+7056,82,Balangoda
+7056,83,Nikaweratiya
+7056,84,Bandaragama 
+7056,85,Yakkala
+7056,86,Malabe
+7056,87,Kohuwala
+7056,88,Kaduruwela
+7056,89,Nawalapitiya
+7056,93,Mount Lavinia
+7056,95,Card Centre 
+7056,96,Mathugama
+7056,97,Ambalangoda
+7056,98,Baddegama
+7056,100,Ampara
+7056,101,Nawala  
+7056,102,Gampola
+7056,103,Elpitiya
+7056,104,Kamburupitiya
+7056,105,Batticaloa
+7056,106,Bambalapitiya
+7056,107,Chunakkam
+7056,108,Nelliady
+7056,109,Pilimathalawa
+7056,110,Kekirawa
+7056,111,Deniyaya
+7056,112,Weligama
+7056,113,Baseline 
+7056,114,Katubedda
+7056,115,Hatton
+7056,116,Reid Avenue
+7056,117,Pitakotte 
+7056,118,Negombo second 
+7056,119,Kotikawatta
+7056,120,Monaragala
+7056,121,Kottawa
+7056,122,Kurunegala city office
+7056,123,Tangalle
+7056,124,Tissamaharama
+7056,125,Neluwa
+7056,126,Chavakachcheri
+7056,127,"Stanley Road,Jaffna "
+7056,128,Warakapola
+7056,129,Udugama
+7056,130,Athurugiriya
+7056,131,Raddolugama 
+7056,132,Boralesgamuwa(laugfs super)
+7056,133,Kahawatta
+7056,134,Delkanda 
+7056,135,karapitiya
+7056,136,Welimada
+7056,137,Mahiyanganaya
+7056,138,Kalawana
+7056,139,Kirindiwela
+7056,140,Digana
+7056,141,Polgahawela
+7056,142,Boralesgamuwa
+7056,143,Hanwella
+7056,144,Pannala
+7056,145,Ward Place
+7056,146,Wadduwa
+7056,147,Biyagama
+7056,148,Puttlam
+7056,149,Pelmadulla
+7056,150,Kandy City office
+7056,151,Matara City office
+7056,152,Kalmunai
+7056,153,Manipay
+7056,154,Mannar
+7056,155,Kilinochchi
+7056,156,Achchuvely 
+7056,157,Thirunelvely
+7056,158,Eheliyagoda
+7056,159,Valachchenai
+7056,160,Wellawaya
+7056,161,Mawathagama
+7056,162,Thambuttegama
+7056,163,Ruwanwella
+7056,164,Dankotuwa
+7056,165,Peliyagoda
+7056,166,Hambantota
+7056,167,Katubedda(minicom)
+7056,168,Chenkalady
+7056,169,Elite 
+7056,170,Velanai
+7056,171,Vavuniya  Second
+7056,172,Akkaraipattu
+7056,173,Kataragama
+7056,174,Wariyapola
+7056,175,Kuruwita
+7056,176,Middeniya
+7056,177,Ganemulla
+7056,178,World Trade Centre
+7056,179,Wellawatte 2nd
+7056,180,Divulapitiya
+7056,181,Beliatta
+7056,182,Giriulla
+7056,183,Marawila 
+7056,184,Thalawakelle
+7056,185,Anuradhapura New Town
+7056,186,Passara
+7056,187,Padukka 
+7056,188,Alawwa
+7056,189,Panadura Second
+7056,190,Katunayake 24/7 Centre
+7056,193,Kattankudy
+7056,194,Pottuvil
+7056,195,Maskeliya
+7056,196,Kollupitiya(liberty plaza)
+7056,197,Godakawela 
+7056,198,Kodikamam
+7056,199,Makola 
+7056,200,Medawachchiya
+7056,204,SLIC-  C.S.P
+7056,206,Palavi 
+7056,208,Nawala-Minicom
+7056,209,Maharagama(laugfs super)
+7056,210,Moratuwa(laugfs super)
+7056,211,Union Place (Keells Super)
+7056,212,Kurunegala(minicom)
+7056,213,Ratnapura (minicom) 
+7056,216,Ramanayake Mawatha
+7056,217,Kirulapone-Minicom
+7056,218,Gampaha-Minicom
+7056,219,Akurana(minicom)
+7056,220,Beruwela(minicom)
+7056,221,Ragama 
+7056,222,Matara(keells super)
+7056,223,Panadura(keells super)
+7056,224,Horana(wijemanna super)
+7056,225,Wattala-Minicom
+7056,226,Bokundara(minicom)
+7056,227,Katukurunda(minicom)
+7056,228,Weliweria 
+7056,229,Mulliyawalai
+7056,230,Ja-Ela-Minicom
+7056,231,Attidiya
+7056,232,Hulftsdorp
+7056,233,Rajagiriya (Keells Super)
+7056,234,Kadawatha (Arpico Super)
+7056,236,Urubokka
+7056,237,Colombo Gold Centre
+7056,238,Nawinna (Arpico Super)
+7056,239,Chankanai
+7056,240,Batapola
+7056,241,Nochchiyagama
+7056,242,Batticaloa Second
+7056,244,Badulla Second
+7056,245,Katugastota-Minicom
+7056,246,Wattgama
+7056,247,Bandarawatta (Laugfs Super)
+7056,248,Wennapuwa (Arpico Super)
+7056,249,BIA Counter
+7056,250,Veyangoda
+7056,251,Dehiwala Arpico Super Centre
+7056,252,Batharamulla Arpico Super Centre
+7056,253,Hydepark Arpico Service Center
+7056,254,Aniwatta(nihals super)
+7056,255,Kundasale 
+7056,256,Negambo Arpico Super Centre
+7056,257,Kiribathgoda(laugfs super)
+7056,258,Bambalapitiya(majestic city)
+7056,259,Nawam Mawatha 
+7056,260,Wattala Arpico Super Center
+7056,261,Nittambuwa(nihal super)
+7056,262,Pelawatte
+7056,264,Handala
+7056,265,Gelioya(arpico super)
+7056,266,Kohuwala(keells super)
+7056,267,Kalutara (Arpico Super)
+7056,268,Mattegoda (Laugfs Super)
+7056,269,Delgoda
+7056,270,Orion City ABC
+7056,271,Galle Main Street
+7056,272,Kilinochchi Second
+7056,274,Point Pedro
+7056,275,Kelaniya
+7056,276,Deiyandara
+7056,277,Morawaka
+7056,278,Rambukkana
+7056,279,Katana
+7056,280,Bopitiya
+7056,281,Yatiyantota
+7056,282,Kolonnawa
+7056,283,Pitigala
+7056,284,Enderamulla
+7056,286,Ibbagamuwa
+7056,287,Embuldeniya
+7056,288,Teldeniya
+7056,289,Hettipola
+7056,293,Madampe
+7056,901,Islamic Banking Unit
+7056,999,Head Office
+7074,0,Habib Bank Ltd
+7074,1,Pettah 
+7074,2,Dharmapala Mawatha
+7074,3,Kalmunai
+7074,5,Kandy
+7074,6,Galle
+7074,7,Wellawatte
+7074,21,Islamic Banking
+7074,999,Head Office
+7083,1,Aluthkade
+7083,2,City Office
+7083,3,Head Office
+7083,4,Head Office
+7083,5,Green Path
+7083,6,Maligawatta
+7083,7,Pettah
+7083,9,Wellawatta
+7083,10,Anuradhapura
+7083,11,Badulla
+7083,12,Bandarawela
+7083,13,Galle
+7083,14,Gampola
+7083,15,Hatton
+7083,16,Jaffna Metro
+7083,17,Kahawatte
+7083,18,Kandy
+7083,19,Kurunegala
+7083,20,Mannar
+7083,21,Maskeliya
+7083,22,Moratuwa
+7083,23,Nawalapitiya
+7083,24,Negombo
+7083,25,Nittambuwa
+7083,26,Nochchiyagama
+7083,27,Nugegoda
+7083,28,Nuwara Eliya
+7083,29,Pussellawa
+7083,30,Ratnapura
+7083,31,Trincomalee
+7083,32,Vavuniya
+7083,33,Welimada
+7083,34,Kalutara
+7083,35,Wattala
+7083,36,Rajagiriya
+7083,38,Piliyandala
+7083,39,Bambalapitiya
+7083,40,Chilaw
+7083,41,Kegalle
+7083,42,Matara
+7083,43,Kirulapone
+7083,44,Polonnaruwa
+7083,45,Ambalantota
+7083,46,Grandpass
+7083,47,Biyagama
+7083,48,Dambulla
+7083,49,Katunayake
+7083,50,Embilipitiya
+7083,51,Gampaha
+7083,52,Horana
+7083,53,Monaragala
+7083,54,International Division
+7083,55,Borella
+7083,56,Kiribathgoda
+7083,57,Batticaloa
+7083,58,Ampara
+7083,59,Panchikawatta
+7083,60,Bogawanthalawa
+7083,61,Mount Lavinia
+7083,63,Hulftsdorp
+7083,64,Maharagama
+7083,65,Matale
+7083,66,Pinnawala
+7083,67,Suriyawewa
+7083,68,Hambantota
+7083,69,Panadura
+7083,70,Dankotuwa
+7083,71,Balangoda
+7083,72,Sea Street
+7083,73,Moratumulla
+7083,74,Kuliyapitiya
+7083,75,Buttala
+7083,76,Cinnamon Gardens
+7083,77,Homagama
+7083,78,Akkaraipattu
+7083,79,Marandagahamula
+7083,80,Marawila
+7083,81,Ambalangoda
+7083,82,Kaduwela
+7083,83,Puttalam
+7083,84,Kadawatha
+7083,85,Talangama
+7083,86,Tangalle
+7083,87,Ja-Ela
+7083,88,Thambuttegama
+7083,89,Mawanella
+7083,90,Tissamaharama
+7083,91,Kalmunai
+7083,92,Thimbirigasyaya
+7083,93,Dehiwala
+7083,94,Minuwangoda
+7083,95,Kantale
+7083,96,Kotahena
+7083,97,Mutwal
+7083,98,Kottawa
+7083,99,Kirindiwela
+7083,100,Katugastota
+7083,101,Pelmadulla Customer Centre
+7083,102,Ragama
+7083,103,Dematagoda
+7083,104,Narahenpita
+7083,105,Treasury Division
+7083,106,Wellawaya
+7083,107,Elpitiya
+7083,108,Maradana
+7083,109,Aluthgama
+7083,110,Wennappuwa
+7083,111,Avissawella
+7083,112,Boralesgamuwa
+7083,113,Card Centre
+7083,114,Central Colombo
+7083,115,Kollupitiya
+7083,117,Chunnakam
+7083,118,Nelliady
+7083,119,Kandana
+7083,120,Deniyaya Customer Centre
+7083,121,Nikaweratiya
+7083,122,Delgoda
+7083,123,Alawwa
+7083,124,Mahiyanganaya
+7083,125,Mathugama
+7083,126,Warakapola
+7083,127,Middeniya
+7083,128,Galgamuwa
+7083,129,Kohuwela
+7083,130,Weliweriya
+7083,131,Hendala
+7083,132,Point Pedro
+7083,133,Norochchole
+7083,134,Thirukovil
+7083,135,Eravur
+7083,136,Ganemulla
+7083,137,Chavakachcheri
+7083,138,Kelaniya
+7083,139,Hanwella
+7083,140,Padukka
+7083,141,Pilimatalawa
+7083,142,Thalawathugoda
+7083,143,Medawachchiya
+7083,144,Thirunelvely
+7083,145,Negombo Metro
+7083,146,Kilinochchi South
+7083,147,Nawala
+7083,148,Giriulla
+7083,149,Galewela
+7083,150,Manipay
+7083,151,Akuressa
+7083,152,Hettipola
+7083,153,Wariyapola
+7083,154,Athurugiriya
+7083,155,Kochchikade
+7083,156,Malabe
+7083,157,Chankanai
+7083,158,Pottuvil
+7083,159,Ninthavur
+7083,160,Beruwela
+7083,161,Velanai
+7083,162,Rikillagaskada
+7083,163,Yakkala
+7083,164,Thandenweli
+7083,165,Kaluwanchikudy
+7083,166,Pugoda
+7083,167,Valachchenai
+7083,168,Madampe
+7083,169,Kinniya
+7083,170,Siyabalanduwa
+7083,171,Udappuwa
+7083,172,Nanattan
+7083,173,Ginigathhena
+7083,174,Mullipothanai
+7083,175,Uppuvelli
+7083,176,Digana
+7083,177,Anamaduwa
+7083,178,Dikwella
+7083,179,Medirigiriya
+7083,180,Mirigama
+7083,181,Padavi Parakramapura
+7083,182,Uhana
+7083,183,Mullativu
+7083,184,Karaitive
+7083,185,Maruthamunai
+7083,186,Serunuwara
+7083,187,Pitigala
+7083,188,Kundasale
+7083,189,Atchchuvely
+7083,190,Kodikamam
+7083,191,Muthur
+7083,192,Kallady
+7083,193,Aralaganwila
+7083,194,Kolonnawa
+7083,195,Killinochchi North
+7083,196,Dehiattakandiya
+7083,197,Kalawana
+7083,198,Galaha
+7083,199,Urubokka
+7083,200,Hakmana
+7083,201,Bandaragama
+7083,202,Hikkaduwa
+7083,203,Wadduwa
+7083,204,Mirihana
+7083,205,Mulliyawalai
+7083,206,Kurumankadu
+7083,207,Jampettah Street
+7083,208,Ratmalana
+7083,209,Seeduwa
+7083,210,Pamunugama
+7083,211,Kattankudy
+7083,212,Mallavi
+7083,213,Weligama
+7083,214,Veyangoda
+7083,215,Batapola
+7083,216,Yakkalamulla
+7083,217,Walasmulla
+7083,218,Gelioya
+7083,219,Jaffna
+7083,220,Passara
+7083,221,Pamankada
+7083,222,Sammanthurai
+7083,223,Peradeniya
+7083,224,Kurunegala Metro
+7083,225,Trincomalee Metro
+7083,226,Wijerama
+7083,227,Karapitiya
+7083,228,Peliyagoda
+7083,229,Divulapitiya
+7083,230,Ekala
+7083,231,Kekirawa
+7083,232,Anuradhapura Metro
+7083,233,Bibile
+7083,234,Haputale
+7083,235,Godakawela
+7083,236,Akurana
+7083,237,Koggala
+7083,238,Devinuwara
+7083,239,Angunakolapelassa
+7083,240,Kataragama
+7083,241,Kaithady
+7083,243,Kurunduwatte
+7083,244,Ragala
+7083,245,Ingiriya
+7083,246,Thalawakele
+7083,247,Pettah Metro
+7083,248,Lotus Road
+7083,249,Asiri Surgical Hospital
+7083,250,Islamic Banking Unit
+7083,251,Lanka Hospital
+7083,253,KDU University Hospital 
+7083,254,Ninewells Hospital 
+7083,500,Digital Branch
+7083,701,Nawam Mawatha
+7083,703,World Trade Centre
+7092,1,Head Office
+7092,2,Kandy
+7092,3,Colpetty
+7092,4,Wellawatte
+7092,5,Nugegoda
+7092,6,World Trade Center
+7092,7,Bambalapitiya
+7092,8,Pelawatte
+7092,12,Union Place
+7092,14,Wattala
+7092,15,Premier Centre
+7092,17,Negombo
+7092,18,Moratuwa
+7092,20,kohuwela
+7092,21,Jaffna
+7092,22,Galle
+7092,999,Head Office
+7108,0,Head Office
+7108,1,Head Office
+7108,2,Jaffna
+7108,999,Head Office
+7117,0,Head Office
+7117,1,Matara
+7117,999,Head Office
+7135,1,Duke Street
+7135,2,Matale
+7135,3,Kandy
+7135,4,International Division
+7135,5,Polonnaruwa
+7135,6,Hingurakgoda
+7135,7,Hambantota
+7135,8,Anuradhapura
+7135,9,Puttalam
+7135,10,Badulla
+7135,11,Bibile
+7135,12,Kurunegala
+7135,13,Galle Fort
+7135,14,Union Place
+7135,15,Ampara
+7135,16,Welimada
+7135,17,Balangoda
+7135,18,Gampola
+7135,19,Dehiwala
+7135,20,Mulativu
+7135,21,Minuwangoda
+7135,22,Hanguranketha
+7135,23,Kalmunai
+7135,24,Chilaw
+7135,25,Hyde park Corner
+7135,26,Gampaha
+7135,27,Kegalle
+7135,28,Kuliyapitiya
+7135,29,Avissawella
+7135,30,Jaffna Stanley Road
+7135,31,Tellipalai
+7135,32,Matara Uyanwatta
+7135,33,Queens
+7135,34,Negombo
+7135,35,Ambalangoda
+7135,36,Ragala
+7135,37,Bandarawela
+7135,38,Talawakele
+7135,39,Kalutara
+7135,40,Vavuniya
+7135,41,Horana
+7135,42,Kekirawa
+7135,43,Padaviya
+7135,44,Mannar
+7135,45,Embilipitiya
+7135,46,Mudalige Mawatha
+7135,47,Yatiyantota
+7135,48,Kilinochchi
+7135,49,Homagama
+7135,51,Kahatagasdigiliya
+7135,52,Maho
+7135,53,Nawalapitiya
+7135,54,Warakapola
+7135,55,Kelaniya
+7135,56,Sri Sangaraja Mawatha
+7135,57,Peradeniya
+7135,58,Mahiyangana
+7135,59,Polgahawela
+7135,60,Morawaka
+7135,61,Tissamaharama
+7135,62,Wellawaya
+7135,63,Akkaraipattu
+7135,64,Samanthurai
+7135,65,Kattankudy
+7135,66,Trincomalee
+7135,67,Tangalle
+7135,68,Monaragala
+7135,69,Mawanella
+7135,70,Mathugama
+7135,71,Dematagoda
+7135,72,Ambalantota
+7135,73,Elpitiya
+7135,74,Wattegama
+7135,75,Batticaloa
+7135,76,Wennappuwa
+7135,77,Weligama
+7135,78,Borella
+7135,79,Veyangoda
+7135,80,Ratmalana
+7135,81,Ruwanwella
+7135,82,Narammala
+7135,83,Nattandiya
+7135,84,Aluthgama
+7135,85,Eheliyagoda
+7135,86,Thimbirigasyaya
+7135,87,Baddegama
+7135,88,Ratnapura
+7135,89,Katugastota
+7135,90,Kantale
+7135,91,Moratuwa
+7135,92,Giriulla
+7135,93,Pugoda
+7135,94,Kinniya
+7135,95,Muttur
+7135,96,Medawachchiya
+7135,97,Gangodawila
+7135,98,Kotikawatte
+7135,100,Marandagahamula
+7135,101,Rambukkana
+7135,102,Valaichechenai
+7135,103,Piliyandala
+7135,104,Jaffna Main Street
+7135,105,Kayts
+7135,106,Nelliady
+7135,107,Atchchuvely
+7135,108,Chankanai
+7135,109,Chunnakam
+7135,110,Chavakachcheri
+7135,111,Paranthan
+7135,112,Teldeniya
+7135,113,Batticaloa Town
+7135,114,Galagedera
+7135,115,Galewela
+7135,116,Passara
+7135,117,Akuressa
+7135,118,Delgoda
+7135,119,Narahenpita
+7135,120,Walasmulla
+7135,121,Bandaragama
+7135,122,Wilgamuwa
+7135,123,Eravur
+7135,124,Nikeweratiya
+7135,125,Kalpitiya
+7135,126,Grandpass
+7135,127,Nildandahinna
+7135,128,Ratthota
+7135,129,Rakwana
+7135,130,Hakmana
+7135,131,Udugama
+7135,132,Deniyaya
+7135,133,Kamburupitiya
+7135,134,Nuwara Eliya
+7135,135,Dickwella
+7135,136,Hikkaduwa
+7135,137,Makandura
+7135,138,Dambulla
+7135,139,Pettah
+7135,140,Hasalaka
+7135,141,Velvetiturai
+7135,142,Kochchikade
+7135,143,Suduwella
+7135,144,Hettipola
+7135,145,Wellawatte
+7135,146,Naula
+7135,147,Buttala
+7135,148,Panadura
+7135,149,Alawwa
+7135,150,Kebithigollawa
+7135,151,Diyatalawa
+7135,152,Matara Dharmapala Mawatha
+7135,153,Akurana
+7135,154,Balapitiya
+7135,155,Kahawatte
+7135,156,Uva-Paranagama
+7135,157,Menikhinna
+7135,158,Senkadagala
+7135,159,Kadugannawa
+7135,160,Pelmadulla
+7135,161,Bulathsinhala
+7135,162,Jaffna University
+7135,163,Wariyapola
+7135,164,Potuvil
+7135,165,Mankulam
+7135,166,Murunkan
+7135,167,"Town Hall,Colombo"
+7135,168,Kataragama
+7135,169,Galle Main Street
+7135,170,Eppawela
+7135,171,Nochchiyagama
+7135,172,Bingiriya
+7135,173,Pundaluoya
+7135,174,Nugegoda
+7135,175,Kandana
+7135,176,Mid City
+7135,177,Galenbindunuwewa
+7135,178,Maskeliya
+7135,179,Galnewa
+7135,180,Deraniyagala
+7135,181,Maha Oya
+7135,183,Ankumbura
+7135,184,Galgamuwa
+7135,185,Galigamuwa
+7135,186,Hatton
+7135,188,Ahangama
+7135,189,Uhana
+7135,190,Kaluwanchikudy
+7135,191,Malwana
+7135,192,Nivitigala
+7135,193,Ridigama
+7135,194,Kolonnawa
+7135,195,Haldummulla
+7135,196,Kaduwela
+7135,197,Uragasmanhandiya
+7135,198,Mirigama
+7135,199,Mawathagama
+7135,200,Majestic City
+7135,201,Ukuwela
+7135,202,Kirindiwela
+7135,203,Habarana
+7135,204,Head Quarters
+7135,205,Angunakolapalessa
+7135,206,Davulagala
+7135,207,Ibbagamuwa
+7135,208,Battaramulla
+7135,209,Boralanda
+7135,210,Kollupitiya Co-op House
+7135,211,Panwila
+7135,214,Mutuwal
+7135,215,Madampe
+7135,216,Haputale
+7135,217,Mahara
+7135,218,Horowpathana
+7135,219,Tambuttegama
+7135,220,Anuradhapura-Nuwarawewa
+7135,221,Hemmathagama
+7135,222,Wattala
+7135,223,Karaitivu
+7135,224,Thirukkovil
+7135,225,Haliela
+7135,226,Kurunegala Maliyadeva
+7135,227,Chenkalady
+7135,228,Addalachchene
+7135,229,Hanwella
+7135,230,Tanamalwila
+7135,231,Medirigiriya
+7135,232,Polonnaruwa Town
+7135,233,Serunuwara
+7135,234,Batapola
+7135,235,Kalawana
+7135,236,Maradana
+7135,237,Kiribathgoda
+7135,238,Gonagaldeniya
+7135,239,Ja-Ela
+7135,240,Keppetipola
+7135,241,Pallepola
+7135,242,Bakamuna
+7135,243,Devinuwara
+7135,244,Beliatta
+7135,245,Godakawela
+7135,246,Meegalewa
+7135,247,Imaduwa
+7135,248,Aranayake
+7135,249,Neboda
+7135,250,Kandeketiya
+7135,251,Lunugala
+7135,252,Bulathkohupitiya
+7135,253,Aralaganwila
+7135,254,Welikanda
+7135,255,Trincomalee Town
+7135,256,Pilimatalawa
+7135,257,Deltota
+7135,258,Medagama
+7135,259,Kehelwatte
+7135,260,Koslanda
+7135,261,Pelawatte
+7135,262,Wadduwa
+7135,263,Kuruwita
+7135,264,Suriyawewa
+7135,265,Middeniya
+7135,266,Kiriella
+7135,267,Anamaduwa
+7135,268,Girandurukotte
+7135,269,Badulla-Muthiyangana
+7135,270,Thulhiriya
+7135,271,Urubokka
+7135,272,Talgaswela
+7135,273,Kadawatha
+7135,274,Pussellawa
+7135,275,Olcott Mawatha
+7135,276,Katunayake
+7135,277,Sea Street
+7135,278,Nittambuwa
+7135,279,Pitakotte
+7135,280,Pothuhera
+7135,281,Kobeigane
+7135,282,Maggona
+7135,283,Baduraliya
+7135,284,Jaffna Kannathiddy
+7135,285,Point Pedro
+7135,288,Kudawella
+7135,289,Kaltota
+7135,290,Moratumulla
+7135,291,Dankotuwa
+7135,292,Udapussellawa
+7135,293,Dehiowita
+7135,294,Alawathugoda
+7135,295,Udawalawe
+7135,296,Nintavur
+7135,297,Dam Street
+7135,298,Ginthupitiya
+7135,299,Kegalle Bazaar
+7135,300,Ingiriya
+7135,301,Galkiriyagama
+7135,302,Ginigathhena
+7135,303,Mahawewa
+7135,304,Walasgala
+7135,306,Maharagama
+7135,307,Gandara
+7135,308,Kotahena
+7135,309,Liberty Plaza
+7135,310,Bambalapitiya
+7135,311,Beruwala
+7135,312,Malwatta Road
+7135,313,Katubedda
+7135,315,Talawa
+7135,316,Ragama
+7135,317,Ratnapura Town
+7135,318,Pamunugama
+7135,319,Kirulapana
+7135,320,Borella Town
+7135,321,Panadura Town
+7135,322,Marawila
+7135,324,Seeduwa
+7135,325,Wanduramba
+7135,326,Capricon
+7135,327,Kesbewa
+7135,328,Kottawa
+7135,329,Koggala
+7135,330,Dehiattakandiya
+7135,331,Lucky Plaza
+7135,332,Ganemulla
+7135,333,Yakkala
+7135,334,Kurunegala-Ethugalpura
+7135,335,Nugegoda City
+7135,336,Mount Lavinia
+7135,337,Dehiwela (Galle Road)
+7135,338,Sainthamaruthu
+7135,339,Kallar
+7135,340,Oddamavady
+7135,341,Hataraliyadda
+7135,342,Kokkaddicholai
+7135,343,Karapitiya
+7135,344,Melsiripura
+7135,345,Ranna
+7135,346,Maruthamunai
+7135,347,Badalkubura
+7135,348,Boralesgamuwa
+7135,349,Pallebedda
+7135,350,Weeraketiya
+7135,351,Thambala
+7135,352,Pulmudai
+7135,353,Rikillagaskada
+7135,354,Bogawanthalawa
+7135,355,Kotiyakumbura
+7135,356,Cheddikulam
+7135,357,Kandy City Centre
+7135,358,Poojapitiya
+7135,359,Piliyandala City
+7135,360,Polpithigama
+7135,361,Kodikamam
+7135,362,People’s Elegance – Premier
+7135,363,Gelioya 
+7135,364,Athurugiriya
+7135,600,Card Center
+7135,796,Overseas Customers Unit
+7135,990,HEAD OFFICE
+7135,999,Centralized Back Office
+7144,0,Head Office
+7144,1,Head Office
+7144,2,Kandy
+7144,32,Kohuwala
+7144,999,Head Office
+7162,0,Central Clearing
+7162,1,"
+City"
+7162,2,Colpetty
+7162,3,Sri Sangharaja Mawatha
+7162,4,Kandy
+7162,5,Wellawatte
+7162,6,Corporate
+7162,7,Negombo C.S.P
+7162,8,Pettah Main Street 
+7162,9,Mahabage
+7162,10,Battaramulla
+7162,11,Dharmapala Mawatha
+7162,12,Kurunegala
+7162,13,Maharagama
+7162,14,Moratuwa
+7162,15,Borella
+7162,16,Kiribathgoda
+7162,17,Panadura
+7162,18,Gampaha
+7162,19,Kotahena
+7162,20,Ward Place
+7162,21,Kadawatha
+7162,22,Crescat
+7162,23,Dehiwala
+7162,24,Nawam Mawatha
+7162,25,Havelock Town
+7162,26,Peradeniya
+7162,27,Nawala
+7162,28,Matara
+7162,29,Galle
+7162,30,Thalawathugoda
+7162,31,Homagama
+7162,32,Bandarawela
+7162,33,Vavuniya
+7162,34,Batticaloa
+7162,35,Jaffna
+7162,36,Horana
+7162,37,Kalmunai
+7162,38,Malabe
+7162,39,Anuradhapura
+7162,40,Piliyandala
+7162,41,Ratnapura
+7162,42,Nuwara Eliya
+7162,43,Chilaw
+7162,44,Nelliady
+7162,45,Kaduruwela
+7162,46,Pettah Bankshall Street 
+7162,47,Aluthgama
+7162,48,Wennappuwa
+7162,49,Trincomalee
+7162,50,World Trade Centre
+7162,51,Wattala
+7162,52,Mount Lavinia
+7162,53,Nugegoda
+7162,54,Kohuwala
+7162,55,Kuliyapitiya
+7162,56,Ambalangoda
+7162,57,Akkaraipattu
+7162,58,Hambantota
+7162,59,Badulla
+7162,60,Ja-Ela
+7162,61,Embilipitiya
+7162,62,Ambalantota
+7162,63,Akuressa
+7162,64,Balangoda
+7162,65,Deniyaya
+7162,66,Matugama
+7162,67,Karapitiya
+7162,68,Rajagiriya
+7162,69,Katugastota
+7162,70,Kaduwela
+7162,71,Old Moor Street
+7162,72,Bandaragama
+7162,73,Digana
+7162,74,Monaragala
+7162,75,Boralasgamuwa
+7162,76,Kottawa
+7162,77,Gothatuwa
+7162,78,Wariyapola
+7162,79,Kegalle
+7162,80,Tissamaharama
+7162,81,Narahenpita
+7162,82,Elpitiya
+7162,83,Giriulla
+7162,84,Weligama
+7162,85,Nittambuwa
+7162,86,Minuwangoda
+7162,87,Hikkaduwa
+7162,88,Gampola
+7162,89,Tangalle
+7162,90,Mawathagama
+7162,91,Avissawella
+7162,92,Matale
+7162,93,Kandy City Center
+7162,94,Dambulla
+7162,95,Pilimathalawa
+7162,96,Kalutara
+7162,400,Card Center
+7162,500,Liberty Plaza
+7162,999,Head Office
+7205,0,Head Office
+7205,1,Main Branch
+7205,999,Head Office
+7214,0,Head Office
+7214,1,Navam Mawatha
+7214,2,Kandy
+7214,3,Havelock Town
+7214,4,Nugegoda
+7214,5,Rajagiriya
+7214,6,Matara
+7214,7,Kurunegala
+7214,8,Wellawatte
+7214,9,Negombo
+7214,10,Chilaw
+7214,11,Wattala
+7214,12,Maharagama
+7214,13,Ratnapura
+7214,14,Kollupitiya
+7214,15,Moratuwa
+7214,16,Kalutara
+7214,17,Kegalle
+7214,18,Badulla
+7214,19,Anuradhapura
+7214,20,Mount Lavinia
+7214,21,Galle
+7214,22,Pelawatte
+7214,23,Piliyandala
+7214,24,Kotahena
+7214,25,Kiribathgoda
+7214,26,Kadawatha
+7214,27,Horana
+7214,28,Kandana
+7214,29,Gampaha
+7214,30,Homagama
+7214,31,Malabe
+7214,32,Kohuwala
+7214,33,Puttalam
+7214,34,Awissawella
+7214,35,Panadura
+7214,36,Wennappuwa
+7214,37,Jaffna
+7214,38,Trincomalee
+7214,39,Batticaloa
+7214,40,Ampara
+7214,41,Vavuniya
+7214,42,Kuliyapitiya
+7214,43,Pettah
+7214,44,Ja-Ela
+7214,45,Matugama
+7214,46,Matale
+7214,47,Ambalangoda
+7214,48,Ambalantota
+7214,49,Pilimatalawa
+7214,50,Gampola
+7214,51,Bandarawela
+7214,52,Borella
+7214,53,kalmunai
+7214,54,Nittambuwa
+7214,55,Kaduwela
+7214,56,Wariyapola
+7214,57,Hambantota
+7214,58,Embilipitiya
+7214,59,Aluthgama
+7214,60,Kaduruwela
+7214,61,Nawalapitiya
+7214,62,Chunnakam
+7214,63,Minuwangoda
+7214,64,Dambulla
+7214,65,Akuressa
+7214,66,Nelliady
+7214,67,Elpitiya
+7214,68,Yakkala
+7214,69,Nikaweratiya
+7214,70,Monaragala
+7214,71,Athurugiriya
+7214,72,Boralesgamuwa
+7214,73,Ratmalana
+7214,74,Narahenpita
+7214,75,Mahiyangana
+7214,76,Nuwara Eliya
+7214,77,Balangoda
+7214,78,Eheliyagoda
+7214,79,Old Moor Street
+7214,80,Kandy City Centre
+7214,81,Uragasmanhandiya
+7214,82,Katunayake
+7214,83,Kakirawa
+7214,84,Kahawatta
+7214,86,Giriulla
+7214,87,Pitakotte
+7214,88,Handala
+7214,89,Kochchikade
+7214,90,Battaramulla
+7214,91,Narammala
+7214,92,Tissamaharama
+7214,93,Chenkalady
+7214,94,Akkaraipattu
+7214,96,Hanwella
+7214,97,Manipai
+7214,98,Thirunelvely
+7214,99,Chavakachcheri
+7214,95,Natthandiya
+7214,100,Head Office(Retail)
+7214,101,Warakapola
+7214,102,Hingurakgoda
+7214,103,Marine Drive
+7214,104,Thambuttegama 
+7214,105,Mahawewa
+7214,106,Hikkaduwa
+7214,109,Katana
+7214,110,Katugastota
+7214,111,Kottawa
+7214,112,Bambalapitiya
+7214,113,Colombo Fort 
+7214,114,Digana 
+7214,115,Shangri-La Colombo Mall
+7214,116,Tangalle
+7214,601,Islamic Banking Unit
+7214,900,Head Office(Corporare)
+7214,999,Head Office
+7269,0,Middle East Bank
+7269,1,Head Office
+7269,2,Pettah
+7269,3,Maradana
+7269,4,Islamic Banking Unit
+7269,5,Wellawatte
+7269,6,Kandy
+7269,7,Batticaloa
+7269,9,Kollupitiya
+7269,999,Head Office
+7278,1,City Office
+7278,2,Pettah
+7278,3,Nugegoda
+7278,4,Borella
+7278,5,Kiribathgoda
+7278,6,Kurunegala
+7278,7,Kandy Super
+7278,8,Wattala
+7278,9,Nawam Mawatha
+7278,10,Matara Super
+7278,11,Bambalapitiya
+7278,12,Fort
+7278,13,Maharagama
+7278,14,Deniyaya
+7278,15,Morawaka
+7278,16,Gampaha
+7278,17,Dehiwala
+7278,18,Ratmalana
+7278,19,Piliyandala
+7278,20,Eheliyagoda
+7278,21,Anuradhapura Super 
+7278,22,Avissawella
+7278,23,Kuliyapitiya
+7278,24,Negombo Super
+7278,25,Matale
+7278,26,Panadura
+7278,27,Old Moor Street
+7278,28,Tissamaharama
+7278,29,Headquarters
+7278,30,Wennappuwa
+7278,31,Moratuwa
+7278,32,Katugastota
+7278,33,Rathnapura
+7278,34,Thimbirigasyaya
+7278,35,Galle Super
+7278,36,Wellawatte Super
+7278,37,Kotahena
+7278,38,Kaduruwela
+7278,39,Malabe
+7278,40,Narahenpita
+7278,41,Kalawana
+7278,42,Main Street
+7278,43,Embilipitiya
+7278,44,Wariyapola -PBC
+7278,45,Wellampitiya -PBC
+7278,46,Bandarawela
+7278,47,Panadura Wekada
+7278,48,Thambuttegama -PBC
+7278,49,Deraniyagala-PBC
+7278,50,Kalutara
+7278,51,Peradeniya-PBC
+7278,52,Kottawa 
+7278,53,Alawwa-PBC
+7278,54,Neluwa-PBC
+7278,55,Vavunia
+7278,56,Mahiyanganaya
+7278,57,Horana
+7278,58,Harbour-View-PBC
+7278,59,Bandaragama
+7278,60,Kadawatha
+7278,61,Battaramulla
+7278,62,Ampara
+7278,63,Pelawatte-PBC
+7278,64,Kegalle
+7278,65,Minuwangoda
+7278,66,Trincomalee
+7278,67,Athurugiriya-PBC
+7278,68,Yakkala-PBC
+7278,69,Homagama
+7278,70,Gregorys Road-PBC
+7278,71,Nittambuwa
+7278,72,Ambalongoda
+7278,73,Ragama-PBC
+7278,74,Monaragala
+7278,75,Wadduwa-PBC
+7278,76,Kandana
+7278,77,veyangoda-PBC
+7278,78,Ganemulla-PBC
+7278,79,Aluthgama
+7278,80,Hatton
+7278,81,Welimada
+7278,82,Nawala
+7278,83,Kirindiwela-PBC
+7278,84,Nuwara Eliya
+7278,85,Digana-PBC
+7278,86,Mirigama
+7278,87,Pannipitiya
+7278,88,Negombo 2nd
+7278,89,Attidiya
+7278,90,Dambulla
+7278,91,Pitakotte
+7278,92,Maharagama Super
+7278,93,Badulla
+7278,94,Kohuwela
+7278,95,Giriulla
+7278,96,Hendala
+7278,97,Balangoda
+7278,98,Ja-Ela
+7278,99,Narammala
+7278,100,Kandy Metro
+7278,101,Gampola
+7278,102,Nikaweratiya
+7278,103,Pelmadulla
+7278,104,Ambalantota
+7278,105,Wattegama
+7278,106,Matugama
+7278,107,Batticaloa
+7278,108,Chilaw
+7278,109,Mawathagama
+7278,110,Hingurakgoda
+7278,111,Akkaraipattu
+7278,112,Kalmunai
+7278,113,Wellawaya
+7278,114,Embuldeniya
+7278,115,Kattankudy
+7278,116,Tangalle
+7278,117,Kirulapone
+7278,118,Baddegama
+7278,119,Mannar
+7278,120,Jaffna
+7278,121,Chenkalady
+7278,122,Rajagiriya
+7278,123,Kandy City Centre
+7278,124,Oddamavadi
+7278,125,Kaluwanchikudy
+7278,126,Sainthamaruthu
+7278,127,Grandpass
+7278,128,Chunnakam
+7278,129,Nelliady
+7278,130,Pottuvil
+7278,131,Platinum Plus
+7278,132,Nattandiya
+7278,133,Kundasale
+7278,134,Kollupitiya
+7278,135,Gangodawila
+7278,136,Peliyagoda
+7278,137,Hanwella
+7278,138,Nochchiyagama
+7278,139,2nd Branch Batticaloa
+7278,140,Ingiriya
+7278,141,Karapitiya
+7278,142,Boralesgamuwa
+7278,143,Anamabuwa
+7278,144,Maradana
+7278,145,Buttala
+7278,146,Passara
+7278,147,Manipay
+7278,148,Kilinochchi
+7278,149,Kekirawa
+7278,150,Pilimatalawa
+7278,151,Keselwatta
+7278,152,Pussellawa
+7278,153,Matara Bazaar
+7278,154,Aralangawila
+7278,155,Moratumulla
+7278,156,Puttalam
+7278,157,Sooriyawewa
+7278,158,Middeniya
+7278,159,Galle Bazaar
+7278,160,Mawanella
+7278,161,Bibile
+7278,162,Kaduwela
+7278,163,Rikillagaskada
+7278,164,Chankanai
+7278,165,Kochchikade
+7278,166,Pannala
+7278,167,Dehiattakandiya
+7278,168,Anuradhapura New Town
+7278,169,Chavakachcheri
+7278,170,Vavuniya Metro
+7278,171,Kayts
+7278,172,Kantale
+7278,173,Gothatuwa New Town
+7278,174,Mallavi
+7278,175,Colombo Super
+7278,176,Mattegoda
+7278,177,Kinniya
+7278,178,Thalawathugoda
+7278,179,Akuressa
+7278,180,Beliatta
+7278,181,Habaraduwa
+7278,182,Ahangama
+7278,183,Marandagahamula
+7278,184,Menikhinna
+7278,185,Ninthavur
+7278,186,Thirunelvely
+7278,187,Hettipola
+7278,188,Rambukkana
+7278,189,Madampe
+7278,190,Galewela
+7278,191,Panchikawatte
+7278,192,Padukka
+7278,193,Mutwal
+7278,194,Marawila
+7278,195,Nawalapitiya
+7278,196,Dankotuwa
+7278,197,Maho
+7278,198,Divulapitiya
+7278,199,Mount Lavinia
+7278,200,Kiribathgoda
+7278,201,Ruwanwella
+7278,202,Delgoda
+7278,203,Kahatagasdigiliya
+7278,204,Elpitiya
+7278,205,Warakapola
+7278,206,Kaburupitiya
+7278,207,Makola
+7278,208,Muttur
+7278,209,Weligama
+7278,210,Karagampitiya
+7278,211,Talahena
+7278,212,Gampaha Super
+7278,213,Seeduwa
+7278,214,Orugodawatte
+7278,215,Kurunegala Metro
+7278,216,Dickwella
+7278,217,Prince Street
+7278,218,Borella Super
+7278,219,World Trade Center
+7278,220,Heerassagala
+7278,221,Poojapitiya
+7278,222,Thalawakele
+7278,223,Nawala Koswatta
+7278,224,Kesbewa
+7278,225,Godakawela
+7278,226,Ratnapura
+7278,227,Kelaniya
+7278,228,Polgahawela
+7278,229,Hikkaduwa
+7278,920,Imports(Virtual Branch)
+7278,929,Sampath Viswa
+7278,993,Central Clearing Department
+7278,934,Digital Banking Unit
+7278,996,Card Centre
+7278,999,Head Office
+7287,0,Seylan Bank Head Office
+7287,1,City Office
+7287,2,Matara
+7287,3,Mount Lavinia
+7287,4,Maharagama
+7287,5,Panadura
+7287,6,Kiribathgoda
+7287,7,Ratnapura
+7287,8,Kollupitiya
+7287,9,Moratuwa
+7287,10,Kegalle
+7287,11,Gampaha
+7287,12,Nugegoda
+7287,13,Negombo
+7287,14,Dehiwala
+7287,15,Chilaw
+7287,16,Galle
+7287,17,Kandy
+7287,18,Kurunegala
+7287,19,Nuwara Eliya
+7287,20,Balangoda
+7287,21,Anuradhapura
+7287,22,Grandpass
+7287,23,Horana
+7287,24,Ambalangoda
+7287,25,Gampola
+7287,26,Badulla
+7287,27,Ja-Ela
+7287,28,Kadawatha
+7287,29,Dehiattakandiya
+7287,30,Colombo Fort
+7287,31,Katunayaka
+7287,32,Cinnamon Gardens
+7287,33,Kottawa
+7287,34,Boralesgamuwa
+7287,35,Yakkala
+7287,36,Kalutara
+7287,37,Tissamaharama
+7287,38,Matale
+7287,39,Hatton
+7287,40,Sarikkamulla
+7287,41,Attidiya
+7287,42,Kalubowila
+7287,43,Homagama
+7287,44,Kuliyapitiya
+7287,45,Embilipitiya
+7287,46,Bandarawela
+7287,47,Maradana
+7287,48,Mawanella
+7287,49,Puttalam
+7287,50,Old Moor Street
+7287,51,Hingurakgoda
+7287,52,Nawala
+7287,53,Manampitiya
+7287,54,Bandaragama
+7287,55,Katuneriya
+7287,56,Koggala
+7287,57,Welimada
+7287,58,Kochchikade
+7287,59,Bogawanthalawa
+7287,60,Ganemulla
+7287,61,Talawakale
+7287,62,Raddolugama
+7287,63,Weliveriya
+7287,64,Pettah
+7287,65,Beliatta
+7287,66,Mathugama
+7287,67,Malabe
+7287,68,Wellawatte
+7287,69,Dam Street
+7287,70,Warakapola
+7287,71,Wattala
+7287,72,Vavuniya
+7287,73,Batticaloa
+7287,74,Kaththankudy
+7287,75,Awissawella
+7287,76,Nawalapitiya
+7287,77,Kekirawa
+7287,78,Mirigama
+7287,79,Soysapura
+7287,80,Ruwanwella
+7287,81,Hambantota
+7287,82,Borella
+7287,83,Havelock Town
+7287,84,Marandagahamula
+7287,85,Jaffna
+7287,86,Millenium
+7287,87,Nittambuwa
+7287,88,Trincomalee
+7287,89,Meegoda
+7287,90,Pelmadulla
+7287,91,Ampara
+7287,92,Nelliady
+7287,93,Kilinochchi
+7287,94,Mannar
+7287,95,Chavakachcheri
+7287,96,Mullativu
+7287,97,Kalmunai
+7287,98,Chenkalady
+7287,99,Piliyandala
+7287,100,Akuressa
+7287,101,Battaramulla
+7287,102,Kaduruwela
+7287,103,Dambulla
+7287,104,Monaragala
+7287,105,Ambalantota
+7287,106,Narammala
+7287,107,Mahiyanganaya
+7287,108,Veyangoda
+7287,109,Mawathagama
+7287,110,Pussellawa
+7287,111,Dummalasooriya
+7287,112,Godagama
+7287,113,Galenbidunuwewa
+7287,114,Pitakotte
+7287,115,Kanthale
+7287,116,Akkaraipatthu
+7287,117,Chankanai
+7287,118,Kotahena
+7287,119,Udappu
+7287,120,Ingiriya
+7287,121,Beruwala
+7287,122,Kirulapone
+7287,123,Gothatuwa
+7287,124,Minuwangoda
+7287,125,Moratumulla
+7287,126,Kirindiwela
+7287,127,Yatiyantota
+7287,128,Ranpokunugama
+7287,129,Aralaganwila
+7287,130,Kalawanchikudy
+7287,131,Manipay
+7287,132,Medawachchiya
+7287,133,Nochchiyagama
+7287,134,Pallekelle
+7287,135,Wijerama
+7287,137,Bowatta
+7287,138,Eppawala
+7287,139,Bambalapitiya
+7287,140,Hikkaduwa
+7287,141,Rideegama
+7287,142,Wadduwa
+7287,143,Kelaniya
+7287,144,Colombo Gold Centre
+7287,145,Baduraliya
+7287,146,Kamburupitiya
+7287,147,Kalpitiya
+7287,148,Kataragama
+7287,149,Katugastota
+7287,150,Islamic Banking Unit
+7287,151,Pothuvil
+7287,152,Samanthurai
+7287,153,Siyambalanduwa
+7287,154,Padaviya
+7287,157,Peradeniya
+7287,158,Pilimathalawa
+7287,159,Polonnaruwa
+7287,160,Wennappuwa
+7287,161,Dankotuwa
+7287,162,Pannala
+7287,163,Athurugiriya
+7287,164,Karapitiya
+7287,165,Matara Bazzar
+7287,166,Chunnakam
+7287,167,Mutwal
+7287,168,Kandana
+7287,169,Wariyapola
+7287,170,Aluthgama
+7287,171,Giriulla
+7287,172,Hettipola
+7287,173,Eheliyagoda
+7287,174,Godakawela
+7287,175,Union Place 
+7287,176,Padukka
+7287,988,Bancassurance Unit
+7287,992,Central Clearing Department
+7287,996,Central Processing Unit
+7287,997,Seylan Card Centre (SCC)
+7287,998,Retail Remittance Center
+7302,1,UB Main Office
+7302,2,Colpetty
+7302,3,Kandy
+7302,4,Nawala
+7302,5,Wellawatte
+7302,6,Pettah
+7302,7,Old Moor Street
+7302,8,Head Office Branch
+7302,9,Kurunegala
+7302,10,Negambo
+7302,11,Matara
+7302,12,Kotahena
+7302,14,Ja-Ela
+7302,15,Neugegoda
+7302,16,Moratuwa
+7302,17,Wennappuwa
+7302,18,Jaffna
+7302,19,Mannar
+7302,20,Vavuniya
+7302,21,Chunnakkam
+7302,22,Atchuvely
+7302,23,Wattala
+7302,24,Gampaha
+7302,25,Batticaloa
+7302,26,Trincomalee
+7302,27,Galle
+7302,28,Piliyandala
+7302,29,Kadawatha
+7302,30,Ratnapura
+7302,31,Anuradhapura
+7302,32,Dhambulla
+7302,33,Badulla
+7302,34,Horana
+7302,35,Ambalangoda
+7302,36,Chilaw
+7302,37,Marawila
+7302,38,Panadura
+7302,39,Narammala
+7302,40,Pelawatte
+7302,41,Angunakolapelessa
+7302,42,Kebithigollewa
+7302,43,Gampola
+7302,44,Embilipitiya
+7302,45,Kegalle
+7302,46,Warakapola
+7302,47,Kekirawa
+7302,48,Horowpathana
+7302,49,Ambalanthota
+7302,50,Minuwangoda
+7302,51,Balangoda
+7302,52,Maharagama
+7302,53,Mathugama
+7302,54,Nawalapitiya
+7302,55,Ibbagamuwa
+7302,56,Kuliyapitiya
+7302,57,Pilimathalawa
+7302,58,Moneragala
+7302,59,Ganemulla
+7302,60,Elpitiya
+7302,61,Medawachchiya
+7302,62,Ratmalana
+7302,63,Akuressa
+7302,64,Rajagiriaya
+7302,65,Attidiya
+7302,66,Kohuwala
+7302,67,New Borella
+7302,68,Peradeniya
+7302,69,Bandarawela
+7302,997,UB Corporate
+7311,1,Metro
+7311,2,Panchikawatte
+7311,3,Kollupitiya
+7311,4,Pettah
+7311,5,Kandy
+7311,6,Rajagiriya
+7311,7,Ratnapura
+7311,8,Nugegoda
+7311,9,Bambalapitiya
+7311,10,Negombo
+7311,11,Gampaha
+7311,12,Kurunegala
+7311,13,Matara
+7311,14,Kotahena
+7311,15,Dehiwela
+7311,16,Wattala
+7311,17,Panadura
+7311,18,Old Moor Street
+7311,19,Dam Street
+7311,20,Katugastota
+7311,21,Narahenpita
+7311,22,Kirulapana
+7311,23,Maharagama
+7311,24,Moratuwa
+7311,25,Galle
+7311,26,Kadawatha
+7311,27,Kegalle
+7311,28,Wennappuwa
+7311,29,Wellawatta
+7311,30,Gampola
+7311,31,Borella
+7311,32,Anuradhapura
+7311,33,Kalutara
+7311,34,Vavuniya
+7311,35,Malabe
+7311,36,Chilaw
+7311,37,Jaffna
+7311,38,Embilipitiya
+7311,39,Matale
+7311,40,Batticaloa
+7311,41,Ambalangoda
+7311,42,Kalmunai
+7311,43,Kilinochchi
+7311,44,Kandy City Centre
+7311,45,Badulla
+7311,46,Kuliyapitiya
+7311,47,Kalubowila
+7311,48,Bandarawela
+7311,49,Dambulla
+7311,50,Ratmalana
+7311,51,Peradeniya
+7311,52,Kaduruwela
+7311,53,Ambalanthota
+7311,54,Kiribathgoda
+7311,55,Piliyandala
+7311,56,Nelliady
+7311,57,Kattankudy 
+7311,58,Kundasale
+7311,59,Monaragala
+7311,60,Akkaraipaththu
+7311,61,Chunnakam
+7311,62,Balangoda
+7311,63,Battaramulla
+7311,64,Puttalama
+7311,65,Pilimathalawa
+7311,66,Ja-Ela
+7311,67,Kekirawa
+7311,68,Thalawathugoda
+7311,69,Minuwangoda
+7311,70,Warakapola
+7311,71,Galewela
+7311,72,Akuressa
+7311,73,Trincomalee
+7311,74,Tangalle
+7311,75,Hatton
+7311,76,Homagama
+7311,77,Horana
+7311,78,Colombo Gold Centre
+7311,79,Nawala
+7311,80,Kottawa
+7311,81,Kaduwela
+7311,82,Mawanella
+7311,83,Dankotuwa
+7311,84,Hikkaduwa
+7311,85,Weligama
+7311,814,Internationl Remittance
+7311,999,Head Office
+7454,1,Head Office
+7454,2,Nugegoda
+7454,3,Malabe
+7454,4,Matara
+7454,5,Kurunegala
+7454,6,Katugastota
+7454,7,City Office
+7454,8,Rathnapura
+7454,9,Anuradhapura
+7454,10,Gampaha
+7454,11,Badulla
+7454,12,Borella
+7454,13,Narahenpita
+7454,14,Kaduruwela
+7454,15,Bandaranayake Mawatha
+7454,16,Maharagama
+7454,17,Bandarawela
+7454,18,Negombo
+7454,19,Kottawa
+7454,20,Dambulla
+7454,21,Wattala
+7454,22,Kuliyapitiya
+7454,23,Panadura
+7454,24,Piliyandala
+7454,25,Deniyaya
+7454,26,Kaluthara
+7454,27,Kiribathgoda
+7454,28,Nawala
+7454,29,Kadawatha
+7454,30,Gampola
+7454,31,Matale
+7454,32,Chilaw
+7454,33,Wellawatte
+7454,34,Horana
+7454,35,Galle
+7454,36,Nuwara Eliya
+7454,37,Kalawana
+7454,38,Ambalangoda
+7454,39,Avissawella
+7454,40,Batticaloa
+7454,41,Ampara
+7454,42,Jaffna
+7454,43,Moratuwa
+7454,44,Trincomalee
+7454,45,Embilipitiya
+7454,46,Pettah Peoples Park
+7454,47,Vavuniya
+7454,48,Katugastota
+7454,49,Kegalle
+7454,50,Monaragala
+7454,51,Kalmunai
+7454,52,Kilinochchi
+7454,53,Elpitiya
+7454,54,Akuressa
+7454,55,Kattankudy
+7454,56,Tangalle
+7454,57,Oddamavadi
+7454,58,Akkaraipattu
+7454,59,Chunnakam
+7454,60,Manipai
+7454,61,Nelliady
+7454,62,Hambantota
+7454,63,Ja-Ela
+7454,64,Kotahena
+7454,65,Digana
+7454,66,Thambuttegama
+7454,67,Galewela
+7454,68,Eheliyagoda
+7454,69,Mathugama
+7454,70,Narammala
+7454,71,Nikaweratiya
+7454,72,Mount Lavinia
+7454,73,Hatton
+7454,74,Welimada
+7454,75,Ibbagamuwa
+7454,76,Gangodawila
+7454,77,Weligama
+7454,78,Kaduwela
+7454,79,Hingurakgoda
+7454,80,Balangoda
+7454,81,Bandaragama
+7454,82,Peradeniya
+7454,83,Kandy City Centre
+7454,84,Dehiattakandiya
+7454,85,Aralaganwila
+7454,86,Medirigiriya
+7454,87,Pettah-Main Street
+7454,88,Kahawatta
+7454,89,Kochchikade
+7454,90,Giriulla
+7454,91,Wennappuwa
+7454,92,Hikkaduwa
+7454,93,Nawalapitiya
+7454,94,Dankotuwa
+7454,95,Ambalantota
+7454,96,Wattegama
+7454,97,Tissamaharama
+7454,98,Morawaka
+7454,99,Baddegama
+7454,100,Matara City
+7454,101,Nivithigala
+7454,102,Urubokka
+7454,103,Buttala
+7454,104,Wellawaya
+7454,105,Eppawala
+7454,106,Marawilla
+7454,107,Mawanella
+7454,108,Ruwanwella 
+7454,109,Godakawela  
+7454,110,Mahiyanganaya
+7454,111,Fort Super Grade 
+7454,112,Kuruwita
+7454,113,Kekirawa
+7454,114,Minuwangoda
+7454,115,Athurugiriya
+7454,116,Agalawatta
+7454,117,Beliatta
+7454,118,Maha Oya
+7454,119,Uhana
+7454,120,Karandeniya
+7454,121,Dickwella
+7454,122,Veyangoda
+7454,123,Baduraliya
+7454,124,Bibile
+7454,125,Warakapola 
+7454,126,Rattota
+7454,127,Rambukkana branch 
+7454,128,Homagama branch
+7454,129,Welikanda branch 
+7454,130,Naula branch 
+7454,131,Haputale branch
+7454,132,Hakmana branch 
+7454,133,Kottegoda branch 
+7454,134,Aluthgama branch 
+7454,135,Uragasmanhandiya branch
+7454,136,Wathugedara branch
+7454,137,Puttalam branch 
+7454,138,Ratnapura service center 
+7454,501,Southern Province SLP Units
+7454,511,Western  Province SLP Units
+7454,521,North Western Province SLP Units
+7454,531,Central Province SLP Units
+7454,541,Sabaragamuwa Province SLP Units
+7454,551,North Central  Province SLP Units
+7454,561,Eastern  Province SLP Units
+7454,571,Uva Province SLP Units
+7454,700,Pinnacle Centre
+7454,800,Central Operations
+7454,999,Head Office
+7463,1,Head Office
+7463,2,Pettah
+7463,3,Kandy
+7463,4,Kattankudy
+7463,5,Ladies
+7463,6,Kalmunai
+7463,8,Galle
+7463,9,Oddamavadi
+7463,10,Akurana
+7463,11,Gampola
+7463,12,Sammanthurai
+7463,13,Mawanella
+7463,14,Kurunegala
+7463,15,Akkaraipattu
+7463,16,Dehiwela
+7463,17,Nintavur
+7463,18,Kuliyapitiya
+7463,19,Eravur
+7463,20,Negombo
+7463,21,Badulla
+7463,22,Kaduruwela
+7463,23,Puttalam
+7463,24,Kinniya
+7463,25,Ratnapura
+7463,26,Kalmunai Unity Square
+7463,27,Old Moor Street 
+7463,28,Dematagoda
+7463,29,Kirulapana
+7463,30,Katugastota
+7463,31,Beruwala 
+7463,32,Panadura
+7463,33,Matale
+7463,33,Anuradhapura 
+7481,1,Corporate
+7481,2,Maitland Crescent
+7481,3,Old Moor Street
+7481,4,Matara
+7481,5,Maharagama
+7481,6,Vavuniya
+7481,7,Hawaeliya
+7481,8,Thanamalwila
+7481,9,Kurunegala
+7481,10,Jaffna City Center
+7481,11,Chunnakkam
+7481,12,Galle
+7481,13,Nuwara Eliya
+7481,14,Kandy
+7481,15,Peradeniya
+7481,16,Ratnapura
+7481,17,Chilaw
+7481,18,Wattala
+7481,19,Kaduruwela
+7481,20,Rajagiriya
+7481,21,Fort
+7481,22,Nawalapitiya
+7481,925,Central Processing Office
+7612,101,Polgahawela
+7612,102,Pothuhera
+7612,103,Kalugamuwa
+7612,104,Wadakada
+7612,105,Uhumeeya
+7612,106,Metikumbura
+7612,107,Weerambugedara
+7612,108,City Branch
+7612,109,Thalawattegedara
+7612,110,Bandawa
+7612,111,Piduruwella
+7612,112,Karmanthapura
+7612,113,Sunilgama
+7612,114,Udapola
+7612,115,keenagaspitiya
+7658,1,Galle
+7658,2,Karandeniya
+7658,3,Matara
+7658,4,Pelawatta
+7658,5,Kohuwala
+7658,6,Rathgama
+7658,7,Karapitiya
+7658,8,Negombo
+7719,1,Head Office
+7719,2,City
+7719,3,Galle
+7719,4,Matara
+7719,5,Anuradhapura
+7719,6,Jaffna
+7719,7,Chilaw
+7719,8,Kuliyapitiya
+7719,9,Negombo
+7719,10,Ratnapura
+7719,11,Ambalantota
+7719,12,Kalutara
+7719,13,Embilipitiya
+7719,14,Kekirawa
+7719,15,Kandy
+7719,16,Matale
+7719,17,kurunegala
+7719,18,Kegalle
+7719,19,Kilinochchi
+7719,20,Moratuwa
+7719,21,Batticaloa
+7719,22,Badulla
+7719,23,Bambalapitiya
+7719,24,Dehiwala
+7719,25,Peliyagoda
+7719,26,Nugegoda
+7719,27,Homagama
+7719,28,Beruwala
+7719,29,Wennappuwa
+7719,30,Ampara
+7719,31,Kochchikade
+7719,32,Point Pedro
+7719,33,Ambalangoda
+7719,34,Naththandiya
+7719,35,Ruwanwella
+7719,36,Ja-Ela
+7719,37,Gampaha
+7719,39,Devinuwara
+7719,40,Nikaweratiya
+7719,41,Mahiyanganaya
+7719,42,Warakapola
+7719,43,Panadura
+7719,44,Puttalama
+7719,45,Matugama
+7719,46,Monaragala
+7719,47,Kalmunai
+7719,48,Beliatta
+7719,49,Mannar
+7719,50,Nawalapitiya
+7719,51,Pettah
+7719,52,Katunayake
+7719,53,Maharagama
+7719,54,Deniyaya
+7719,55,Akuressa
+7719,56,Nuwara Eliya
+7719,57,Avissawella
+7719,58,Galnewa
+7719,59,Mawanella
+7719,60,Bandarawela
+7719,61,Borella
+7719,62,Hakmana
+7719,63,Horana
+7719,64,Narahenpita
+7719,65,Kollupitiya 2nd
+7719,66,Weligama
+7719,67,Kiribathgoda
+7719,68,Mount Lavinia
+7719,69,Marawila
+7719,70,Wellawatta
+7719,71,Piliyandala
+7719,72,Chunnakam
+7719,73,Chavakachcheri
+7719,74,Gampola
+7719,75,Kadawatha
+7719,76,Hingurakgoda
+7719,77,Maligawatta
+7719,78,Thalawakele
+7719,79,Mirigama
+7719,80,Battaramulla
+7719,81,Kandy 2nd
+7719,82,Dickwella
+7719,83,Mahabage
+7719,84,Pilimathalawa
+7719,85,Wattala
+7719,86,Kamburupitiya
+7719,87,Kotahena
+7719,88,Vavuniya
+7719,89,Trincomalee
+7719,90,Morawaka
+7719,91,Balangoda
+7719,92,Veyangoda
+7719,93,Katubedda
+7719,94,Elpitiya
+7719,95,Kaduwela
+7719,96,Divulapitiya
+7719,97,Tissamaharama
+7719,98,Minuwangoda
+7719,99,Kirindiwela
+7719,100,Nittambuwa
+7719,101,Welimada
+7719,102,Kottawa
+7719,103,Dambulla
+7719,104,Kahathuduwa
+7719,105,Aluthgama
+7719,106,Meegoda
+7719,107,Manipay
+7719,108,Thirunelvely
+7719,109,Chenkaladi
+7719,110,Uragasmanhandiya
+7719,111,Nawala
+7719,112,Deraniyagala
+7719,113,Hikkaduwa
+7719,114,Kalawanchikudy
+7719,115,Kalubowila
+7719,116,Hatton
+7719,117,Welikada
+7719,118,Samanthurai
+7719,119,Delkanda
+7719,120,Yakkala
+7719,121,Karapitiya
+7719,122,Kaduruwela
+7719,123,Malabe
+7719,124,Boralesgamuwa
+7719,125,Moratumulla
+7719,126,Bandaragama
+7719,127,Mulgampola
+7719,128,Badalkumbura
+7719,129,Dankotuwa
+7719,130,Mullative
+7719,131,Kodikamam
+7719,132,Alawathugoda
+7719,133,Godakawela
+7719,134,Periyakallar
+7719,135,Thamabiluvil
+7719,136,Horawpathana
+7719,137,Galenbindunuwewa
+7719,138,Pitakatte
+7719,139,Pitigala
+7719,140,Urubokka
+7719,141,Kandana
+7719,142,Maho
+7719,143,Udugama
+7719,144,Uhana
+7719,145,Galagedara
+7719,146,Siyambalanduwa
+7719,147,Kopay
+7719,148,Peradeniya
+7719,149,City Plus
+7719,150,Piliyandala 2nd 
+7719,151,Deiyandara
+7719,152,Pannala
+7719,153,Makola
+7719,154,Kataragama
+7719,155,Katuwana
+7719,156,Weliweriya 
+7719,157,Yakkalamulla
+7719,158,Ahangama 
+7719,701,Ragama Piyasa
+7719,702,WTC Piyasa
+7719,703,Athurugiriya Piyasa
+7719,704,Neluwa Piyasa
+7719,705,Ganemulla Piyasa
+7719,706,Wellampitiya Piyasa
+7719,707,Narammala Piyasa
+7719,708,Bibile
+7719,709,Hettipola
+7719,710,Bulathkohupitiya
+7719,711,Kandy City Center
+7719,712,Weeraketiya NSB Piyasa
+7719,713,Tangalle NSB Piyasa
+7719,714,Walasmulla NSB Piyasa
+7719,715,Wadduwa NSB Piyasa
+7719,716,Kelaniya 
+7719,717,Nelliady NSB Piyasa
+7719,718,Atchuvely NSB Piyasa
+7719,719,Puwakaramba Piyasa
+7719,720,Valaichenai Piyasa
+7719,721,Aranayake 
+7719,722,Rikillagaskada Piyasa
+7719,723,Katugastota Piyasa
+7719,724,Middeniya Piyasa
+7719,725,Chankanai Piyasa
+7719,726,Polgahawela
+7719,727,Arayampathy
+7719,728,Raddolugama
+7719,729,Galgamuwa
+7719,730,Kayts
+7719,731,Karainagar
+7719,732,Mutwal
+7719,733,Mulleriyawa 
+7719,734,Baddegama
+7719,735,Habaraduwa
+7719,736,Pelmadulla
+7719,737,Kahawatte
+7719,738,Bulathsinhala
+7719,739,Kalawana
+7719,740,Wellawaya
+7719,741,Buttala
+7719,742,Alawwa
+7719,743,Yatiyantota
+7719,744,Pundaluoya
+7719,745,Nochchiyagama
+7719,746,Anamaduwa
+7719,747,Delgoda
+7719,748,Digana
+7719,749,Mawathagama
+7719,750,Hanwella
+7719,751,Hali Ela
+7719,752,Akkaraipattu
+7719,753,Palugamam
+7719,754,Sooriyawewa
+7719,755,Galewela
+7719,756,Tambuttegama
+7719,757,Imaduwa
+7719,758,Passara
+7719,759,Kahatagasdigiliya
+7719,760,Angunakolapelessa
+7719,761,Madampe
+7719,762,Kantale
+7719,763,Medawachchiya
+7719,764,Ingiriya
+7719,765,Rambukkana
+7719,766,Wariyapola
+7719,767,Kebithigollawa
+7719,768,Wattegama
+7719,769,Pussellawa
+7719,770,Pothuvil
+7719,771,Ibbagamuwa
+7719,772,Kuruwita
+7719,773,Vankalai
+7719,774,Mallavi
+7719,775,Kekanadura
+7719,776,Medirigiriya
+7719,777,Nivithigala
+7719,778,Kiriella
+7719,779,Naula
+7719,780,Melsiripura
+7719,781,Hambantota
+7719,782,Rideegama
+7719,783,Deltota
+7719,784,Ginigathhena
+7719,785,Bingiriya
+7719,786,Baduraliya
+7719,787,Giriulla
+7719,788,Eppawala
+7719,789,Thalawathugoda
+7719,790,Pugoda
+7719,791,Gelioya
+7719,792,Ragala
+7719,901,PBU-Head Office
+7719,902,PBU-Kandy
+7719,903,PBU-Galle
+7719,904,PBU-Matara
+7719,905,PBU-Kegalle
+7719,906,Anuradhapura 2nd
+7719,907,PBU-Kalutara
+7719,908,PBU-Gampaha
+7719,909,PBU-Ampara
+7719,910,"Credit Division,(H.L Division)"
+7719,911,IBU (NRFC)
+7719,912,Br.Management Division
+7719,915,PBU-Kurunegala
+7719,916,PBU-Jaffna
+7719,917,PBU-Eheliyagoda
+7728,1,1st Colombo City
+7728,2,Kegalle
+7728,3,Battaramulla
+7728,4,Embilipitiya
+7728,5,Horana
+7728,6,Kiribathgoda
+7728,7,Karapitiya
+7728,8,Akurassa
+7728,9,Matale
+7728,10,Kandy
+7728,11,Chilaw
+7728,12,Vavuniya
+7728,13,Manaragala
+7728,14,Ruwanwella
+7728,15,Rathnapura
+7728,16,Warakapola
+7728,17,Anuradhapura
+7728,18,Sahasapura
+7728,19,Rikillagaskada
+7728,20,Kurunegala
+7728,21,Trincomalle
+7728,22,Kalmuani
+7728,23,Ambalanthota
+7728,25,Kalutara
+7728,26,Kuliyapitiya
+7728,27,Negombo
+7728,28,Polonnaruwa
+7728,29,Batticaloa
+7728,30,Ambalangoda
+7728,31,Matara
+7728,32,Galle
+7728,33,Giriulla
+7728,34,Rambukkana
+7728,35,Dambulla
+7728,36,Thambuththegama
+7728,37,Maho
+7728,38,Wennappuwa
+7728,39,Ampara
+7728,40,Medawachchiya
+7728,41,Muthur
+7728,42,Jaffna
+7728,43,Nanatan
+7728,44,Badulla
+7728,45,Pottuvil
+7728,46,Mapalagama
+7728,47,Mathugama
+7728,48,Gampola
+7728,49,Deniyaya
+7728,50,Anamaduwa
+7728,51,Angunakolapalassa
+7728,52,Aralaganvila
+7728,53,Galenbidunuwewa
+7728,54,Wariyapola
+7728,55,Pilimathalawa
+7728,56,Kirulapona
+7728,57,Deraniyagala
+7728,58,Dehiattakandiya
+7728,59,Kalawanchikudi
+7728,60,Samanthurei
+7728,61,Siyabalanduwa
+7728,62,Buttala
+7728,63,Valachchena
+7728,64,Elpitiya
+7728,65,Nochchiyagama
+7728,66,Yakkalamulla
+7728,67,Katuwana
+7728,68,Mawanella
+7728,69,Kilinochchi
+7728,70,Padavi Parakramapura
+7728,71,Kekirawa
+7728,72,Uhana
+7728,73,Kanthale
+7728,74,Akkeripattu
+7728,75,Moratuwa
+7728,76,Hatharaliyadda
+7728,77,Hingurna
+7728,78,Kaduwela
+7728,79,Narammala
+7728,80,Aluthgama
+7728,81,Maharagama
+7728,82,Gampaha
+7728,83,Thalawa
+7728,84,Malabe
+7728,85,Mahabage
+7728,86,Dehiwala
+7728,87,Ekala
+7728,88,Nuwara Eliya
+7728,89,Chunnakam
+7728,90,Mannar
+7728,91,Tissamaharama
+7728,92,Bandarawela
+7728,93,Galewela
+7728,94,Piliyandala
+7728,95,Panadura 
+7728,999,Sanasa Development Bank Head Office
+7737,1,Head Office
+7746,2,Moratuwa
+7746,3,Negombo
+7746,4,Kurunegala
+7746,5,Kelaniya
+7746,6,Kandy
+7746,7,Gampaha
+7746,8,Rathnapura
+7746,9,Badulla
+7746,10,Chilaw
+7746,11,Anuradhapura
+7746,12,Wellawatta
+7746,13,Wattala
+7746,14,Ja-Ela
+7746,15,Kaduwela
+7746,16,Kegalle
+7746,17,Nittambuwa
+7746,18,Wennappuwa
+7746,19,Mathugama
+7746,20,Kaluthara
+7746,21,Maharagama
+7746,22,Matara
+7746,23,Embilipitiya
+7746,24,Battaramulla
+7746,25,Tissamaharama
+7746,26,Mahara
+7746,27,Galle
+7746,28,Dambulla
+7746,29,Kaduruwela
+7746,30,Kotahena
+7746,31,Colombo Office
+7746,32,Jaffna
+7746,33,Vavuniya
+7746,34,Batticaloa
+7746,35,Trincomalee
+7746,36,Bandarawela
+7746,38,Head Office
+7746,39,Kadana
+7746,40,Ragama
+7746,41,Ela Kanda
+7746,42,Eheliyagoda
+7746,43,Boralesgamuwa
+7746,44,Marawila
+7746,45,Kuliyapitiya
+7746,46,Ratmalana
+7746,47,Panadura
+7746,48,Nugegoda
+7746,49,Premier Center
+7746,50,Horana
+7746,51,Pelmadulla
+7746,52,Kochchikade
+7746,53,Rajagiriya
+7746,54,Katugasthota
+7746,55,Matale
+7746,56,Piliyandala
+7746,57,Ambalangoda
+7746,58,Malabe
+7746,59,Minuwangoda
+7746,60,Dehiwala
+7746,61,Warakapola
+7746,62,Kottawa
+7746,63,Narammala
+7746,64,Mawathagama
+7746,65,Avissawella
+7746,66,Wariyapola
+7746,67,Nikaweratiya
+7746,68,Kuruvita
+7746,69,Aluthgama
+7746,70,Mahiyanganaya
+7746,71,Thalawathugoda
+7746,72,Giriulla
+7746,104,Nuwara Eliya
+7746,106,Ampara
+7755,1,Head Office
+7755,3,Provincial Office-Central
+7755,100,Provincial Office-Western
+7755,101,Bulathsinghala
+7755,102,Walagedara
+7755,103,Agalawatte
+7755,104,Millaniya
+7755,105,Goonapola
+7755,106,Moranthuduwa
+7755,107,Beruwala
+7755,108,Panadura
+7755,109,Horana
+7755,110,Warakagoda
+7755,111,Ingiriya
+7755,112,Dodangoda
+7755,113,Meegahathenna
+7755,114,Baduraliya
+7755,115,Kalutara
+7755,116,Gampaha
+7755,117,Mawaramandiya
+7755,118,Minuwangoda
+7755,119,Meerigama
+7755,120,Moragahahena
+7755,121,Mathugama
+7755,122,Negombo
+7755,123,Divulapitiya
+7755,124,Nittambuwa
+7755,125,Homagama
+7755,126,Kolonnawa
+7755,127,Awissawella
+7755,128,Piliyandala
+7755,129,Ragama
+7755,130,Wadduwa
+7755,131,Kirindiwela
+7755,132,J-Ela
+7755,133,Miriswaththa
+7755,134,Kelaniya-Head Quarter
+7755,135,Nugegoda
+7755,198,Gampaha District Office
+7755,199,Kalutara District Office
+7755,200,Provincial Office-Southern
+7755,201,Hakmana
+7755,202,Urubokka
+7755,203,Deiyandara
+7755,204,Akuressa
+7755,205,Weligama
+7755,206,Gandara
+7755,207,Kekanadura
+7755,208,Ambalantota
+7755,209,Angunukolapalassa
+7755,210,Katuwana
+7755,211,Beliatta
+7755,212,Elpitiya
+7755,213,Batapola
+7755,214,Pitigala
+7755,215,Gonagalapura
+7755,216,Imaduwa
+7755,217,Baddegama
+7755,218,Tissamaharama
+7755,219,LunugaMawathaehera
+7755,220,Pitabaddera
+7755,221,Thalgaswala
+7755,222,Akmeemana
+7755,223,Karandeniya
+7755,224,Sooriyawewa
+7755,225,Kamburugamuwa
+7755,226,Deniyaya
+7755,227,Kamburupitiya
+7755,228,Galle
+7755,229,Uragasmanhandiya
+7755,230,Yakkalamulla
+7755,231,Weerakatiya
+7755,232,Thihagoda
+7755,233,City-Matara
+7755,234,Tangalle
+7755,235,Neluwa
+7755,236,Mawarala
+7755,237,Morawaka
+7755,238,Hambantota
+7755,239,Walasmulla
+7755,240,Barawakumbuka
+7755,241,Udugama
+7755,242,Ranna
+7755,243,Ahangama
+7755,244,Hikkaduwa
+7755,245,Kirinda
+7755,246,Middeniya
+7755,247,Dikwella
+7755,248,Karapitiya
+7755,249,Balapitiya
+7755,250,Pamburana
+7755,251,Mirissa
+7755,252,Kaluwella
+7755,253,Warapitiya
+7755,254,Devinuwara
+7755,297,District Office-Hambantota
+7755,298,District Office-Galle
+7755,299,District Office-Matara
+7755,300,Wayamba Provincial Office
+7755,301,Kuliyapitiya
+7755,302,Pannala
+7755,303,Panduwasnuwara
+7755,304,Alawwa
+7755,305,Dummalasooriya
+7755,306,Pothuhera
+7755,307,Nikaweratiya
+7755,308,Rideegama
+7755,309,Mawathagama
+7755,310,Wariyapola
+7755,311,Kurunegala
+7755,312,Galgamuwa
+7755,313,Chilaw
+7755,314,Palakuda
+7755,315,Anamaduwa
+7755,316,Nattandiya
+7755,317,Kirimetiyana
+7755,318,Puttlam
+7755,319,Maho
+7755,320,Giriulla
+7755,321,Ibbagamuwa
+7755,322,Mundel
+7755,323,Nawagattegama
+7755,324,Mampuri
+7755,325,Mahawewa
+7755,326,Narammala
+7755,327,Polpithigama
+7755,328,Bowatte
+7755,329,HQB
+7755,330,Melsiripura
+7755,331,Ambanpola
+7755,332,Santha Anapura
+7755,336,Wennappuwa
+7755,398,Puttlam District Office
+7755,399,Kurunegala District Office
+7755,400,Provincial Office-North Central
+7755,401,Mihinthale
+7755,402,Town Branch-Anuradhapura
+7755,403,Thambuththegama
+7755,404,Kahatagasdigiliya
+7755,405,Galnewa
+7755,406,Thalawa
+7755,407,Medawachchiya
+7755,408,Thirappane
+7755,409,Rambewa
+7755,410,Polonnaruwa
+7755,411,Medirigiriya
+7755,412,Pulasthigama
+7755,413,Hingurakgoda
+7755,414,Bakamoona
+7755,415,Galenbindunuwewa
+7755,416,Gonapathirawa
+7755,417,Manampitiya
+7755,418,Galamuna
+7755,419,New Town-Anuradhapura
+7755,420,Siripura
+7755,421,Kaduruwela
+7755,422,Kekirawa
+7755,423,Aralaganwila
+7755,424,Economic Centre
+7755,425,Sevanapitiya
+7755,498,Dritrict Office Polonnaruwa
+7755,500,Provincial Office-Sabaragamuwa
+7755,501,Kegalle
+7755,502,Pitagaldeniya
+7755,503,Rambukkana
+7755,504,Mawanella
+7755,505,Warakapola
+7755,506,Aranayaka
+7755,507,Kithulgala
+7755,508,Ruwanwella
+7755,509,Dewalegama
+7755,510,Bulathkohupitiya
+7755,511,Deraniyagala
+7755,512,Rathnapura
+7755,513,Pelmadulla
+7755,514,Balangoda
+7755,515,Embilipitiya
+7755,516,Hemmathagama
+7755,517,Kolonna
+7755,518,Eheliyagoda
+7755,519,Nelumdeniya
+7755,520,Kalawana
+7755,521,Yatiyantota
+7755,522,Godakawela
+7755,523,Erathna
+7755,524,Kuruwita
+7755,525,Nivithigala
+7755,526,Kahawatta
+7755,527,Kotiyakumbura
+7755,528,Rakwana
+7755,529,Dehiovita
+7755,530,Kiriella
+7755,531,Pothupitiya
+7755,532,Weligepola
+7755,533,Sri Palabaddala
+7755,534,Pulungupitiya
+7755,599,Kegalle District Office
+7755,600,Provincial Office-Central
+7755,601,Gampola
+7755,602,Udawela
+7755,603,Hataraliyadda
+7755,604,Marassana
+7755,605,Danture
+7755,606,Wattegama
+7755,607,Morayaya
+7755,608,Teldeniya
+7755,609,Pujapitiya
+7755,610,Nuwara Eliya
+7755,611,Rikillagaskada
+7755,612,Kandy Marketing Centre
+7755,613,Ginigathena
+7755,614,Poondaluoya
+7755,615,Katugastota
+7755,616,Nildandahinna
+7755,617,Agarapathana
+7755,618,Ududumbara
+7755,619,Matale
+7755,620,Dambulla
+7755,621,Galewela
+7755,622,Laggala
+7755,623,Rattota
+7755,624,Kotagala
+7755,625,Menikhinna
+7755,626,Hanguranketha
+7755,627,Daulagala
+7755,628,Naula
+7755,629,Nawalapitiya
+7755,630,Hedeniya
+7755,631,Wilgamuwa
+7755,632,Kandy
+7755,633,Peradeniya
+7755,635,Kandy 02nd City
+7755,700,Provincial Office-Uva
+7755,701,Buttala
+7755,702,Medagama
+7755,703,Monaragala
+7755,704,Thanamalvila
+7755,705,Badulla
+7755,706,Passara
+7755,707,Welimada
+7755,708,Kandaketiya
+7755,709,Mahiyanganaya
+7755,710,wellawaya
+7755,711,Badalkumbura
+7755,712,Haputhale
+7755,713,Rideemaliyadda
+7755,714,Uvaparanagama
+7755,715,Bandarawela
+7755,716,Meegahakiula
+7755,717,Lunugala
+7755,718,Haldummulla
+7755,719,Girandurukotte
+7755,720,Bogahakumbura
+7755,721,Bibile
+7755,722,Uva Maligathenna
+7755,723,Siyambalanduwa
+7755,724,Diyathalawa
+7755,725,Sewanagala
+7755,726,Madulla
+7755,801,Ampara
+7755,802,Dehiatthakandiya
+7755,803,Sammanthurai
+7755,804,Hingurana
+7755,805,Akkaraipaththu
+7755,806,Kalmunai
+7755,807,Mahaoya
+7755,808,Pothuvil
+7755,809,Uhana
+7755,810,Nintavur
+7755,811,Batticaloa
+7755,812,Eraur
+7755,813,Chenkalady
+7755,814,Kanthale
+7755,815,Valachenai
+7755,816,Kathankudi
+7755,817,Trincomalee
+7755,818,Kalauwanchikudi
+7755,819,Kokkadichcholai
+7755,820,Muthtur
+7755,821,Batticaloa 02nd City
+7755,901,Vavuniya
+7755,902,Kanagarayankulam
+7755,903,Mannar
+7755,904,Chunnakam
+7755,905,Jaffna
+7755,906,Kilinochchi
+7755,907,Bogaswewa
+7764,1,Head Office City
+7764,2,Kandy
+7764,3,SMIB Finance Department
+7764,4,Gampaha
+7764,5,Galle
+7764,6,Kurunegala
+7764,7,Matugama
+7764,8,Chilaw
+7764,9,Matara
+7764,10,Battaramulla
+7764,11,Kiribathgoda
+7764,12,Kegalle
+7764,13,Horana
+7764,14,Ambalantota
+7764,15,Batticaloa
+7764,16,Jaffna
+7764,17,Ampara
+7764,18,Ratnapura
+7764,19,Kaduruwela
+7764,20,Vavuniya
+7764,21,Hatton
+7764,22,Badulla
+7764,23,Monaragala
+7764,24,Anuradhapura
+7764,25,Matale
+7764,26,Panadura
+7773,1,Head Office 
+7773,2,Corporate Office 
+7773,3,Nugegoda
+7773,4,Negambo
+7773,5,Kandy 
+7773,6,Badulla 
+7773,7,Panadura
+7773,8,Anuradhapura
+7773,9,Galle
+7773,10,Kiribathgoda
+7773,11,Kurunegala
+7773,12,Ratnapura
+7773,13,Matara
+7773,14,Kalutara
+7773,15,Ambalangoda
+7773,16,Ampara
+7773,17,Avissawella
+7773,18,Gampaha
+7773,19,Chilaw
+7773,20,Polonnaruwa
+7773,21,Piliyandala
+7773,22,Boralesgamuwa
+7773,23,Dambulla
+7773,24,Balangoda
+7773,25,Kegalle
+7773,26,Bandarawela
+7773,27,Dehiwala
+7773,28,Embilipitiya
+7773,29,Batticaloa
+7773,30,Elpitiya
+7773,31,Maradana
+7773,32,Kandana
+7773,33,Mahiyanganaya
+7773,34,Tissamaharama
+7773,35,Matale
+7773,36,Maharagama
+7773,37,Kuliyapitiya
+7773,38,Puttalam
+7773,39,Trincomalee
+7773,40,Gampola
+7773,41,Horana
+7773,42,Kadawatha
+7773,43,Jaffna
+7773,44,Chunnakam
+7773,45,Manipay 
+7773,46,Chavakachcheri
+7773,47,Kilinochchi
+7773,48,Vavuniya
+7773,49,Nuwara Eliya
+7773,50,Hatton
+7773,51,Nelliady 
+7773,52,Matugama
+7773,53,Wennappuwa
+7773,54,Thambuththegama
+7773,55,Akkaraipattu
+7773,56,Pothuvil
+7773,57,Kochchikade
+7773,58,Kotahena
+7773,59,Anuradhapura 02
+7773,60,Rajagiriya
+7773,61,Welimada
+7773,62,Pilimathalawa
+7773,63,Katugasthota
+7773,64,Kalmunai
+7773,65,Moratumulla
+7773,66,Kalawanchikudy
+7773,67,Sea Street
+7773,68,Matara City 
+7773,69,Aluthgama
+7773,70,Kandy City 
+7773,71,Warakapola
+7773,72,Malabe
+7773,73,Kaduwela
+7773,74,Nawalapitiya
+7773,75,Homagama
+7773,76,Kurunegala City 
+7773,77,Maskeliya
+7773,78,Pitigala
+7773,79,Samanturei
+7773,80,Saindamarthu 
+7773,81,Kotte
+7773,82,Badulla City 
+7773,83,Ja-Ela
+7773,84,Delkada
+7773,85,Kaththankudi
+7773,86,Dam Street
+7773,87,Akuressa 
+7773,88,Monaragala
+7773,89,Tangalle
+7773,90,Mount Lavinia
+7773,91,Neluwa
+7773,92,Battaramulla
+7773,93,Kurunegala Premier Centre
+7773,94,Moratuwa
+7773,95,Medawachchiya
+7773,96,Chenkalady
+7773,97,Pussellawa
+7773,98,Deniyaya
+7773,99,Jaffna City
+7773,100,Jaffna Premier
+7773,101,Valaichchenai
+7773,102,Wattala
+7773,103,Gampola City 
+7773,104,Kottawa
+7773,105,Dehiattakandiya
+7773,106,Kokkadicholai
+7773,107,Gelioya
+7773,109,Kinniya
+7773,110,Anamaduwa
+7773,111,Puthukkudiyiruppu
+7773,112,Delgoda
+7773,113,Eheliyagoda
+7773,114,Kekirawa
+7773,115,Divulapitiya
+7773,116,Narammala
+7773,117,Medirigiriya
+7773,118,Achchuveli
+7773,119,Mannar
+7773,120,City office
+7773,121,Dharga Town
+7773,122,Wadduwa
+7773,123,Karapitiya
+7773,124,Minuwangoda
+7773,125,Mullaitivu
+7773,126,Thirunelwely
+7773,127,Kohuwala
+7773,128,Premier Colombo 07
+7773,129,Marawila 
+7773,130,Mallavi
+7773,131,Mattakkuliya
+7773,132,Beruwala
+7773,133,Ragama
+7773,134,Thihariya
+7773,135,Ratmalana
+7773,136,Dehiwala City
+7773,137,Nittambuwa
+7773,138,Kiribathgoda - Makola
+7773,139,Negombo City
+7773,140,Attidiya
+7773,141,Bandaragama
+7773,142,Maharagama City
+7773,143,Ganemulla
+7773,144,Narahenpita
+7773,145,Baduraliya
+7773,146,Hanwella
+7773,147,Elakanda
+7773,148,Kelaniya
+7773,149,Wellawatte City
+7773,150,Athurugiriya
+7773,151,Vaddukkoddai
+7773,152,Addalaichenai
+7773,155,Eravur
+7773,156,Borella
+7773,157,Dematagoda
+7773,158,Grandpass  - Kossgashandiya
+7773,159,Kirulapana
+7773,160,Maligawatta
+7773,161,Modara
+7773,162,Jampattah
+7773,163,Keselwatta
+7773,164,Sangaraja Mawatha
+7773,165,Thotalanga
+7773,166,Wellawatta
+7773,167,Aluth Mawatha
+7773,168,Deans Road
+7773,169,Gothatuwa New Town
+7773,170,Grandpass - Sulaiman
+7773,171,Kolonnawa
+7773,172,Slave Island
+7773,153,Katunayake - Awariwatta
+7773,173,Vakarai
+7773,174,Point Pedro
+7773,177,Galewela
+7773,178,Kantale
+7782,1,Head Office
+7807,1,Head Office
+7807,2,Virtual Branch
+7825,1,Colombo
+7825,2,Kandy
+7825,3,Jaffna
+7825,9,Gampaha
+7825,16,Nugegoda
+7825,25,Nuwara Eliya
+7825,29,Vavuniya
+7825,31,Kantale
+7825,35,Ampara
+7825,38,Kiribathgoda
+7825,44,Nikaweratiya
+7825,46,Warakapola
+7825,47,Moneragala
+7825,48,Horana
+7825,53,Piliyandala
+7825,54,Melsiripura
+7825,56,Nittambuwa
+7825,57,Wennappuwa
+7825,59,Bandarawela
+7825,61,Giriulla
+7825,62,Ratmalana 
+7825,64,Homagama
+7825,65,Batticaloa
+7825,70,Minuwangoda
+7825,71,Thalawatugoda
+7825,72,Kadawatha
+7825,73,Rajagiriya
+7825,74,Athurugiriya
+7825,78,Maradana
+7825,79,Kalutara
+7825,83,Killinochchi
+7825,84,Wattala
+7825,92,Hambanthota
+7825,93,Puttalam
+7825,94,Kalmunai
+7825,95,Trincomalee
+7825,96,Balangoda
+7825,97,Elpitiya
+7834,1,Head Office
+7852,1,Head Office
+7852,2,Gampaha
+7852,3,Ratnapura
+7852,4,Galle
+7852,5,Vavuniya
+7852,6,Trincomalee
+7852,7,Batticaloa
+7852,8,Jaffna
+7852,9,Kelaniya
+7852,10,Horana
+7852,11,Maharagama
+7852,12,Ja-Ela
+7852,13,Kandy
+7852,14,Matara
+7852,15,Anuradhapura
+7852,16,Puttalam
+7852,17,Kilinochchi
+7852,18,Chilaw
+7852,19,Negombo
+7852,20,Ganemulla
+7852,21,Kaduruwela
+7852,22,Ambalanthota
+7852,23,Kuliyapitiya
+7852,24,Galewela
+7852,25,Avissawella
+7852,26,Kalpitiya
+7852,27,Kurunegala
+7852,28,Kadawatha
+7852,29,Dambulla
+7852,30,Nuwara Eliya
+7852,31,Hingurakgoda
+7852,32,Malambe
+7852,33,Kegalle
+7852,34,Ampara
+7852,35,Embilipitiya
+7852,36,Aluthgama
+7861,0,Head Office
+7898,3,Head Office
+7898,5,Virtual-Service
+7898,100,Union Place 
+7898,101,Kadawatha
+7898,102,Gampaha
+7898,103,Negombo 
+7898,104,Kottawa
+7898,105,Kalutara
+7898,106,Moratuwa
+7898,107,Galle
+7898,108,Nugegoda
+7898,109,Kotahena 
+7898,110,Kurunegala 
+7898,112,Anuradhapura
+7898,113,Ratnapura 
+7898,114,Ambalangoda 
+7898,115,Ampara 
+7898,116,Ambalantota 
+7898,117,Avissawella 
+7898,118,Bandarawela
+7898,119,Batticaloa
+7898,120,Chilaw 
+7898,121,City Office
+7898,122,Dambulla
+7898,123,Deniyaya
+7898,124,Embilipitiya
+7898,125,Hambantota
+7898,126,Hingurakgoda 
+7898,127,Horana
+7898,128,Hatton 
+7898,129,Ja-Ela 
+7898,130,Jaffna
+7898,131,Kandy 
+7898,132,Kiribathgoda
+7898,133,Kandy City Office
+7898,134,Kilinochchi
+7898,135,Kakirawa 
+7898,136,Kandana
+7898,137,Kuliyapitiya 
+7898,138,Maharagama
+7898,140,Monaragala 
+7898,141,Malabe
+7898,142,Matara
+7898,143,Matugama 
+7898,144,Nittambuwa
+7898,145,Panadura
+7898,146,Puttlam
+7898,147,Trincomalee
+7898,148,Vavuniya
+7898,149,Wennappuwa
+7898,150,Wattala
+7898,151,Head Office 
+7904,1,City
+7904,2,Moratuwa
+7904,3,Jaffna
+7904,4,Trincomalee
+7904,5,Bandaragama
+7904,6,Vavuniya
+7904,7,Ampara
+7904,8,Kurunegala
+7904,9,Wattala
+7904,10,Kandy
+7904,11,Anuradhapura
+7904,12,Nuwara Eliya
+7904,13,Matale
+7904,14,Badulla
+7904,15,Chilaw
+7904,16,Puttalam
+7904,17,Kegalle
+7904,18,Kalutara
+7904,19,Batticoloa
+7904,20,Ja-Ela
+7904,21,Matara
+7904,22,Welimada
+7904,23,Dambulla
+7904,24,Kantale
+7904,25,Ambalangoda
+7904,26,Homagama
+7904,27,Negombo
+7904,28,Beliatta
+7904,29,Embilipitiya
+7904,30,Polonnaruwa
+7904,31,Mahiyanganaya
+7904,32,Moneragala
+7904,33,Hambantota
+7904,34,Galle
+7904,35,Mathugama
+7904,36,Medawachchiya
+7904,37,Horana
+7904,38,Rathnapura
+7904,39,Nikaweratiya
+7904,40,Galgamuwa
+7904,41,Nittambuwa
+7904,42,Gampaha
+7904,43,Nawalapitiya
+7904,44,Wennappuwa
+7904,45,Avissawella
+7904,46,Kaduwela
+7904,47,Mannar
+7904,48,Padaviya
+7904,49,Balangoda 
+7904,50,Kalmunai 
+7904,51,Nellyadi
+7904,52,Mullaitivu 
+7904,53,Pottuvil
+7904,54,Mallavi 
+7904,55,Norocholai
+7904,56,Morawaka 
+7904,57,Kuliyapitiya
+7904,58,Nedunkeni
+7904,59,Nochchiyagama 
+7904,60,Kilinochchi
+7904,61,Kekirawa 
+7904,62,Galenbindunuwewa
+7904,63,Rikillagaskada 
+7904,64,Bandarawela 
+7904,65,Walapane 
+7904,66,Tissamaharama
+7904,67,Hatton 
+7904,68,Pitigala 
+7904,69,Dehiattakandiya 
+7904,70,Head Office 
+7904,999,Head office
+7913,1,Head Office
+7904,1,City
+7904,2,Moratuwa
+7904,3,Jaffna
+7904,4,Trincomalee
+7904,5,Bandaragama
+7904,6,Vavuniya
+7904,7,Ampara
+7904,8,Kurunegala
+7904,9,Wattala
+7904,10,Kandy
+7904,11,Anuradhapura
+7904,12,Nuwara Eliya
+7904,13,Matale
+7904,14,Badulla
+7904,15,Chilaw
+7904,16,Puttalam
+7904,17,Kegalle
+7904,18,Kalutara
+7904,19,Batticoloa
+7904,20,Ja-Ela
+7904,21,Matara
+7904,22,Welimada
+7904,23,Dambulla
+7904,24,Kantale
+7904,25,Ambalangoda
+7904,26,Homagama
+7904,27,Negombo
+7904,28,Beliatta
+7904,29,Embilipitiya
+7904,30,Polonnaruwa
+7904,31,Mahiyanganaya
+7904,32,Moneragala
+7904,33,Hambantota
+7904,34,Galle
+7904,35,Mathugama
+7904,36,Medawachchiya
+7904,37,Horana
+7904,38,Rathnapura
+7904,39,Nikaweratiya
+7904,40,Galgamuwa
+7904,41,Nittambuwa
+7904,42,Gampaha
+7904,43,Nawalapitiya
+7904,44,Wennappuwa
+7904,45,Avissawella
+7904,46,Kaduwela
+7904,47,Mannar
+7904,48,Padaviya
+7904,49,Balangoda 
+7904,50,Kalmunai 
+7904,51,Nellyadi
+7904,52,Mullaitivu 
+7904,53,Pottuvil
+7904,54,Mallavi 
+7904,55,Norocholai
+7904,56,Morawaka 
+7904,57,Kuliyapitiya
+7904,58,Nedunkeni
+7904,59,Nochchiyagama 
+7904,60,Kilinochchi
+7904,61,Kekirawa 
+7904,62,Galenbindunuwewa
+7904,63,Rikillagaskada 
+7904,64,Bandarawela 
+7904,65,Walapane 
+7904,66,Tissamaharama
+7904,67,Hatton 
+7904,68,Pitigala 
+7904,69,Dehiattakandiya 
+7904,70,Head Office 
+7904,999,Head office
+7968,1,Head Office
+7968,2,Kandy-01
+7968,3,Kurunegala-01
+7968,4,Kalmunai-02
+7968,5,Negombo 
+7968,6,Matara
+7968,7,Nuwara Eliya 
+7968,8,Kuliyapitiya 
+7968,9,Anuradhapura 
+7968,10,Kandy-02
+7968,11,Ampara
+7968,12,Peliyagoda
+7968,13,Nugegoda 
+7968,14,Ratnapura
+7968,15,Avissawella
+7968,16,Kegalle
+7968,17,Vavuniya
+7968,18,Batticaloa
+7968,19,Gampaha
+7968,20,Kalutara 
+7968,21,Kalmunai-01
+7968,22,Wellawatte
+7968,23,Kurunegala-02
+7968,24,Trincomalee
+7968,25,Maharagama
+7968,26,Galle
+7968,27,Panadura 
+7968,28,Piliyanadala
+7968,29,Kiribathgoda
+7968,30,Hatton
+7968,31,Pettah 
+7968,34,Wattala
+7968,35,Chilaw
+7968,36,Kohuwala
+7968,37,Moratuwa 
+7968,39,Jaffna
+7968,40,Malabe 
+7968,41,Dambulla
+7968,43,Matale
+7959,0,Head Office 
+7959,1,Jaffna
+7959,2,Panadura
+7959,3,Negombo
+7959,4,Pepiliyana
+7959,5,Embilipitiya
+7959,6,Puttalam
+7959,7,Nelliady
+7959,8,Batticaloa
+7959,9,Wattala
+7959,10,Beliatte
+7959,11,Bandarawela
+7959,12,Monaragala
+7959,13,Dehiattakandiya
+7959,14,Pottuvil
+7959,15,Ampara
+7959,16,Kaduwela
+7959,17,Gampaha
+7959,18,Aluthgama
+7959,19,Mallavi
+7959,20,Kaluwanchikudy
+7959,21,Sevanagala
+7959,22,Uhana
+7959,23,Maha-Oya
+7959,24,Padiyathalawa
+7959,25,Siyambalanduwa
+7959,26,Mullaitivu 
+7959,27,Kalmunai
+7959,28,Homagama
+7959,29,Nattandiya
+7959,30,Valaichchenai
+7959,31,Mannar
+7959,32,Nikaweratiya
+7959,33,Nawalapitiya
+7959,34,Hingurakgoda
+7959,35,Mathugama
+7959,36,Anuradhapura
+7959,37,Dambulla
+7959,38,Ingiriya
+7959,39,Ratnapura
+7959,40,Trincomalee
+7959,41,Matara
+7959,42,Chilaw
+7959,43,Kandy
+7959,44,Kurunegala
+7959,45,Seruwawila
+7959,46,Vavuniya
+7959,47,Galgamuwa
+7959,48,Matale
+7959,49,Avissawella
+7959,51,Balangoda
+7959,52,Galle
+7959,53,Nuwara Eliya
+7959,54,Badulla
+7959,57,Hatton
+7959,58,Welimada
+7959,61,Pepiliyana-City

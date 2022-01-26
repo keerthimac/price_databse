@@ -1,0 +1,592 @@
+bank_code,branch_code,branch_location
+7010,1,City Office
+7010,2,Kandy
+7010,3,Galle Fort
+7010,4,Pettah
+7010,5,Jaffna
+7010,6,Trincomalee
+7010,7,Panadura
+7010,9,Kurunegala
+7010,11,Badulla
+7010,12,Batticaloa
+7010,15,Central Office 
+7010,16,Kalutara S/G
+7010,18,Negombo
+7010,20,Chilaw
+7010,21,Ampara
+7010,22,Anuradhapura
+7010,23,Wellawatte
+7010,24,Matara
+7010,26,Main Street
+7010,27,Kegalle
+7010,28,Point Pedro
+7010,29,Nuwara Eliya
+7010,30,Katubedda
+7010,31,Ratnapura
+7010,32,Aluthkade
+7010,34,Kollupitiya
+7010,35,Haputale
+7010,37,Bambalapitiya
+7010,38,Borella S/G
+7010,39,Ja-Ela
+7010,40,Hatton
+7010,41,Maradana
+7010,42,Peliyagoda
+7010,43,Union Place
+7010,44,Vavuniya
+7010,45,Gampaha S/G
+7010,46,Mannar
+7010,47,Ambalangoda
+7010,48,Puttalam
+7010,49,Nugegoda Supergrade
+7010,50,Nattandiya
+7010,51,Dehiwala
+7010,52,Kuliyapitiya
+7010,53,Chunnakam
+7010,54,Horana
+7010,55,Maharagama
+7010,56,Tangalle
+7010,57,Eheliyagoda
+7010,58,Beruwala
+7010,59,Kadawatha
+7010,60,Fifth City
+7010,61,Moratuwa
+7010,63,Velanai
+7010,68,Matale
+7010,82,Monaragala
+7010,83,Polonnaruwa New Town
+7010,85,Hambantota
+7010,87,International Division
+7010,88,Mirigama
+7010,89,Galle Bazaar
+7010,92,Naula
+7010,93,Kilinochchi
+7010,98,Anuradhapura New Town
+7010,99,Primary Dealer Unit
+7010,101,Galaha
+7010,102,Bentota
+7010,104,Welpalla
+7010,118,Muttur
+7010,122,Galenbindunuwewa
+7010,127,Padavi Parakramapura
+7010,135,Imaduwa
+7010,139,Weeraketiya
+7010,144,Yatawatte
+7010,152,Pemaduwa
+7010,157,Tirappane
+7010,162,Medawachchiya
+7010,167,Rikillagaskada
+7010,172,Kobeigane
+7010,183,Sewagama
+7010,217,Horowpathana
+7010,236,Ipalogama
+7010,238,Medagama
+7010,250,Tawalama
+7010,255,Malkaduwawa
+7010,256,Thanthirimale
+7010,257,Mawathagama
+7010,258,Elakanda
+7010,259,Rathgama
+7010,260,Diyatalawa
+7010,261,Katuwana
+7010,262,Kekanadura
+7010,263,Kosmodera
+7010,264,Kudawella
+7010,265,Lunugamvehera
+7010,266,Maha Edanda
+7010,267,Makandura-Matara
+7010,268,Malimbada
+7010,270,Morawaka
+7010,271,Pasgoda
+7010,272,Pitabeddara
+7010,273,Digana
+7010,274,Weli-Oya
+7010,276,Ahangama
+7010,277,Aluthwala
+7010,278,Barawakumbura
+7010,280,Karapitiya
+7010,281,Manipay
+7010,282,Kitulgala
+7010,283,Kolonna
+7010,284,Kotiyakumbura
+7010,285,Morontota
+7010,286,Sabaragamuwa University
+7010,287,Pinnawala
+7010,288,Sabaragamuwa Provincial Council
+7010,290,Seethawakapura
+7010,291,Udawalawe
+7010,292,Weligepola
+7010,293,Dodangoda
+7010,294,Karawanella
+7010,295,Karawita
+7010,297,Kegalle Hospital
+7010,298,Urubokka
+7010,299,Makandura
+7010,300,Marawila
+7010,301,Palaviya
+7010,302,Pallama
+7010,303,Paragahadeniya
+7010,305,Thoduwawa
+7010,306,Udappuwa
+7010,307,Wayamba University
+7010,308,Weerapokuna
+7010,309,Wellawa
+7010,311,Bulathkohupitiya
+7010,312,Embilipitiya City
+7010,313,Endana
+7010,314,Galigamuwa
+7010,315,Ratnapura Hospital
+7010,316,Gonagaldeniya
+7010,317,Kiriella
+7010,318,Potuvil
+7010,319,Mahawewa
+7010,320,Ballaketuwa
+7010,322,Thanamalwila
+7010,323,Kochchikade
+7010,324,Kumbukgete
+7010,325,Kuruwita
+7010,326,Thirumurukandi
+7010,328,Visuvamadu
+7010,329,Ambanpola
+7010,330,Anawilundawa
+7010,331,Dambadeniya
+7010,332,Katuneriya
+7010,333,Katupotha
+7010,334,Kirimetiyana
+7010,335,Mihintale
+7010,336,Thalaimannar Pier
+7010,337,Pussellawa
+7010,338,Savalkaddu
+7010,339,Sirupiddy
+7010,340,Wattegama
+7010,341,Puthukudieruppu
+7010,342,Puthukulam
+7010,343,Uva Paranagama
+7010,344,Pesalai
+7010,345,Poonagary
+7010,346,Poovarasankulam
+7010,347,Punnalaikadduvan
+7010,348,Padiyatalawa
+7010,349,Mallavi
+7010,351,Manthikai
+7010,352,Maruthankerny
+7010,353,Mulankavil
+7010,355,Mullativu
+7010,356,Murungan
+7010,357,Nainativu
+7010,358,Nallur
+7010,359,Nanatan
+7010,360,Nedunkerny
+7010,361,Oddusudan
+7010,362,Omanthai
+7010,363,Pallai
+7010,364,Paranthan
+7010,365,Hasalaka
+7010,366,Jaffna Bus Stand
+7010,368,Jaffna Main Street
+7010,369,Jaffna University
+7010,370,Kaithady
+7010,371,Kalviyankadu
+7010,372,Karanavai
+7010,373,Kayts
+7010,375,Kodikamam
+7010,376,Kokuvil
+7010,377,Illavalai
+7010,378,Madhu
+7010,379,Wariyapola
+7010,380,Alaveddy
+7010,381,Andankulam
+7010,382,Cheddikulam
+7010,383,Delft
+7010,384,Meegahakiwula
+7010,385,Vavunathivu
+7010,386,Vellaveli
+7010,388,Diyabeduma
+7010,389,Diyasenpura
+7010,390,Doramadalawa
+7010,391,Galamuna
+7010,392,General Hospital-Anuradhapur
+7010,393,Habarana
+7010,394,Minneriya
+7010,395,Padaviya
+7010,396,Rajanganaya
+7010,397,Rajina Junction
+7010,398,Ranajayapura
+7010,399,Sevanapitiya
+7010,400,Thalawa
+7010,401,Ayagama
+7010,402,Oddamavady
+7010,403,Oluwil
+7010,404,Palugamam
+7010,405,Polwatte
+7010,406,Palmuddai
+7010,407,Sainthamarathu
+7010,408,Serunuwara
+7010,409,Thambiluvil
+7010,410,Thampalakamam
+7010,411,Thoppur
+7010,413,Uhana
+7010,414,Uppuvely
+7010,415,Vakarai
+7010,416,Siyambalanduwa
+7010,417,Mollipothana
+7010,418,Morawewa
+7010,419,Navithanvely
+7010,420,Nilavely
+7010,421,Seeduwa
+7010,422,Malwatte
+7010,423,Mamangama
+7010,424,Maruthamunai
+7010,425,Pundaluoya
+7010,426,Kallady
+7010,427,Kallar
+7010,428,Karadiyanaru
+7010,429,Karaitivu
+7010,430,Kiran
+7010,431,Kokkadicholai
+7010,432,Galewela
+7010,433,Divulapitiya
+7010,434,Wellawaya
+7010,436,China Bay
+7010,437,Eastern University
+7010,438,Gonagolla
+7010,439,Irakkamam
+7010,440,Samanthurai
+7010,441,Pujapitiya
+7010,442,Ragala
+7010,443,Sigiriya
+7010,444,Ukuwela
+7010,445,University Of Peradeniya
+7010,446,Upcott
+7010,447,Wilgamuwa
+7010,448,Addalachchenai
+7010,449,Alankerny
+7010,451,Araiyampathy
+7010,452,Batticaloa Town
+7010,453,Independent  Square
+7010,454,Kandy Hospital
+7010,455,Kotagala
+7010,456,Marassana
+7010,458,Meepilimana
+7010,459,Menikhinna
+7010,461,Palapathwela
+7010,462,Botanical Gardens Peradeniya
+7010,463,Haldummulla
+7010,464,BOI Pallekelle
+7010,465,Bokkawala
+7010,466,Danture
+7010,467,Daulagala
+7010,469,Digana Village
+7010,470,Gampola City
+7010,471,Ginigathhena
+7010,472,Hatharaliyadda
+7010,473,Kandy City Centre
+7010,474,Court Complex Kandy
+7010,476,Ettampitiya
+7010,477,Yatiyantota
+7010,487,Adikarigama
+7010,488,Agarapathana
+7010,489,Akurana
+7010,490,Ankumbura
+7010,491,Bogawantalawa
+7010,492,Padiyapelella
+7010,494,Andiambalama
+7010,497,Dankotuwa
+7010,498,Alawwa
+7010,499,Wijerama Junction
+7010,500,Jaffna 2nd Branch
+7010,501,Chavakachcheri
+7010,502,Kaduruwela
+7010,503,Passara
+7010,504,Devinuwara
+7010,505,Wattala
+7010,506,Maskeliya
+7010,507,Kahawatte
+7010,508,Wennappuwa
+7010,509,Hingurana
+7010,510,Kalmunai
+7010,511,Mulliyawalai
+7010,512,Thimbirigasyaya
+7010,513,Kurunegala Bazaar
+7010,514,Galnewa
+7010,515,Bandarawela
+7010,516,Thalawathugoda
+7010,517,Walasmulla
+7010,518,Middeniya
+7010,520,Sri Jayawardenapura Hospital
+7010,521,Hyde Park
+7010,522,Batapola
+7010,524,Gelioya
+7010,525,Baddegama
+7010,526,Polgahawela
+7010,527,Welisara
+7010,528,Deniyaya
+7010,529,Kamburupitiya
+7010,530,Avissawella
+7010,531,Talawakelle
+7010,532,Ridigama
+7010,533,Pitakotte
+7010,534,Narammala
+7010,535,Embilipitiya
+7010,536,Kegalle Bazaar
+7010,537,Ambalantota
+7010,538,Tissamaharama
+7010,539,Beliatta
+7010,540,Badalkumbura
+7010,541,Pelawatte City Kalutara
+7010,542,Mahiyangana
+7010,543,Kiribathgoda
+7010,544,Madampe
+7010,545,Minuwangoda
+7010,546,Pannala
+7010,547,Nikaweratiya
+7010,548,Anamaduwa
+7010,549,Galgamuwa
+7010,550,Weligama
+7010,551,Anuradhapura Bazzar
+7010,552,National Institute Of Education
+7010,553,Giriulla
+7010,554,Bingiriya
+7010,555,Melsiripura
+7010,556,Matugama
+7010,557,Moratumulla
+7010,558,Waikkal
+7010,559,Mawanella
+7010,560,Buttala
+7010,561,Dematagoda
+7010,562,Warakapola
+7010,563,Dharga Town
+7010,564,Maho
+7010,565,Madurankuliya
+7010,566,Aranayake
+7010,567,Dedicated Economic Centre-Meegoda
+7010,568,Homagama
+7010,569,Hiripitiya
+7010,570,Hettipola
+7010,571,Kirindiwela
+7010,572,Negombo Bazzar
+7010,573,Central Bus Stand
+7010,574,Mankulam
+7010,575,Gampola
+7010,576,Dambulla
+7010,577,Lunugala
+7010,578,Yakkalamulla
+7010,579,Bibile
+7010,580,Dummalasuriya
+7010,581,Madawala
+7010,582,Rambukkana
+7010,583,Mattegoda
+7010,584,Wadduwa
+7010,585,Ruwanwella
+7010,587,Pilimatalawa
+7010,588,Peradeniya
+7010,589,Kalpitiya
+7010,590,Akkaraipattu
+7010,591,Nintavur
+7010,592,Dikwella
+7010,593,Milagiriya
+7010,594,Rakwana
+7010,595,Kolonnawa
+7010,596,Talgaswela
+7010,597,Nivitigala
+7010,598,Nawalapitiya
+7010,599,Aralaganwila
+7010,600,Jayanthipura
+7010,601,Hingurakgoda
+7010,602,Kirulapana
+7010,603,Lanka Hospital
+7010,604,Ingiriya
+7010,605,Kankesanthurai
+7010,606,Udadumbara
+7010,607,Panadura Bazaar
+7010,608,Kaduwela
+7010,609,Hikkaduwa
+7010,610,Pitigala
+7010,611,Kaluwanchikudy
+7010,612,Lake View
+7010,613,Akuressa
+7010,614,Matara City
+7010,615,Galagedera
+7010,616,Kataragama
+7010,617,Keselwatte
+7010,618,Metropolitan
+7010,619,Elpitiya
+7010,620,Kesbewa
+7010,621,Kebithigollawa
+7010,622,Kahatagasdigiliya
+7010,623,Kantale Bazaar
+7010,624,Trincomalee Bazaar
+7010,625,Katukurunda
+7010,626,Valachchenai
+7010,627,Regent Street
+7010,628,Grandpass
+7010,629,Koslanda
+7010,630,Chenkalady
+7010,631,Katubedda Campus
+7010,633,Kandapola
+7010,634,Dehiowita
+7010,636,Lake House
+7010,638,Nelliady
+7010,639,Rattota
+7010,640,Pallepola
+7010,641,Medirigiriya
+7010,642,Deraniyagala
+7010,643,Gonapola
+7010,644,Parliamentary Complex
+7010,645,Kalawana
+7010,646,Boralesgamuwa
+7010,647,Lunuwatte
+7010,648,Kattankudy
+7010,649,Kandy 2nd
+7010,650,Talatuoya
+7010,651,Bombuwela
+7010,652,Bakamuna
+7010,653,Galkiriyagama
+7010,654,Madatugama
+7010,655,Tambuttegama
+7010,656,Nochchiyagama
+7010,657,Agalawatta
+7010,658,Katunayake I.P.Z.
+7010,659,Gurugoda
+7010,660,Corporate
+7010,662,Baduraliya
+7010,663,Kotahena
+7010,664,Pothuhera
+7010,665,Bandaragama
+7010,666,Katugastota
+7010,667,Neluwa
+7010,668,Borella  2nd
+7010,669,Girandurukotte
+7010,670,Kollupitiya 2nd
+7010,671,Isurupaya
+7010,672,Colombo Gold Center 
+7010,673,Bulathsinhala
+7010,674,Enderamulla
+7010,675,Nittambuwa
+7010,676,Kekirawa
+7010,677,Weliweriya
+7010,678,Padukka
+7010,679,Battaramulla
+7010,680,Aluthgama
+7010,681,Personal
+7010,682,Veyangoda
+7010,683,Pelmadulla
+7010,684,Ratnapura Bazaar
+7010,685,Ward Place
+7010,686,Dehiattakandiya
+7010,687,Raddolugama
+7010,688,Balangoda
+7010,689,Ratmalana
+7010,690,Pelawatta
+7010,691,Hakmana
+7010,692,Eppawala
+7010,693,Ruhunu Campus
+7010,699,Bogahakumbura
+7010,700,Dambagalla
+7010,701,Ella
+7010,702,Ethiliwewa
+7010,703,Keppetipola
+7010,705,Moneragala Town
+7010,706,Okkampitiya
+7010,707,Pelawatta
+7010,708,Batuwatte
+7010,711,Bopitiya
+7010,713,Asiri Central
+7010,714,Katuwellegama Courtaulds Clothing Lanka (Pvt) Ltd
+7010,715,Dalugama
+7010,716,Delgoda
+7010,717,Demanhandiya
+7010,718,Fish Market Peliyagoda
+7010,720,Ganemulla
+7010,721,Gothatuwa
+7010,722,Katana
+7010,723,Mulleriyawa New Town
+7010,724,Naiwala
+7010,728,Meegalewa
+7010,729,Badulla City
+7010,730,Welimada
+7010,731,Ceybank Credit card centre
+7010,732,Biyagama
+7010,733,Warapitiya
+7010,735,Kinniya
+7010,736,Piliyandala
+7010,741,Hanwella
+7010,743,Walapane
+7010,744,Walgama
+7010,746,Rajagiriya
+7010,747,Taprobane
+7010,748,Uragasmanhandiya
+7010,749,Karainagar
+7010,750,Koggala E.P.Z
+7010,751,Suriyawewa
+7010,752,Thihagoda
+7010,753,Udugama
+7010,754,Ahungalla
+7010,757,Athurugiriya
+7010,760,Treasury Division
+7010,761,Thirunelvely
+7010,762,Narahenpita
+7010,763,Malabe
+7010,764,Ragama
+7010,765,Pugoda
+7010,766,Mount Lavinia
+7010,767,Ranna
+7010,768,Alawathugoda
+7010,769,Yakkala
+7010,770,Ibbagamuwa
+7010,771,Kandana
+7010,772,Hemmathagama
+7010,773,Kottawa
+7010,774,Angunakolapelessa
+7010,775,Visakha
+7010,776,Islamic Banking Unit
+7010,777,Electronic Banking Unit
+7010,778,Atchuvely
+7010,779,Norchcholei
+7010,780,Kadawatha 2nd City
+7010,781,Teldeniya
+7010,782,Rambewa
+7010,783,Polpithigama
+7010,784,Deiyandara
+7010,785,Hali ela
+7010,786,Godakawela
+7010,787,Kopay
+7010,788,BOC premier
+7010,789,Makola
+7010,790,Eravur
+7010,791,Valvettithurai
+7010,792,Chankanai
+7010,793,Vavuniya City
+7010,794,Urumpirai
+7010,795,Boragas
+7010,796,Mattala Airport
+7010,797,Medawala
+7010,798,Thalduwa
+7010,799,Nelundeniya
+7010,800,Wanduramba
+7010,802,"Provincial Council Complex,Pallakelle"
+7010,803,Welioya-Sampath Nuwara
+7010,804,Vaddukoddai
+7010,805,Madawakkulama
+7010,806,Mahaoya
+7010,808,Bogaswewa
+7010,809,Kurunduwatte
+7010,810,Ethimale
+7010,811,Central Camp
+7010,812,Aladeniya
+7010,813,Kothalawala Defence University
+7010,814,Saliyawewa
+7010,815,Wahalkada
+7010,816,Pallebedda
+7010,817,Welikanda
+7010,818,Nagoda
+7010,819,Old Moor Street 
+7010,820,Unawatuna
+7010,821,Dombagahawela
+7010,822,Corporate 2nd
+7010,823,Sewanagala
+7010,824,Andiyagala
+7010,825,Laggala
+7010,826,Dunagaha 
+7010,827,Kandaketiya 
+7010,999,Head Office

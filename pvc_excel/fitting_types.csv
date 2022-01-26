@@ -1,0 +1,27 @@
+fitting_type_id,fitting_type
+1,Socket
+2,Valve Socket
+3,Faucet Socket
+4,Elbow
+5,Equal Tee
+6,Bend
+7,Cap
+8,Saddle(Clip)
+9,Bend 45
+10,Reducing Socket
+11,Reducing Tee
+12,Reducing Faucet Elbow
+13,Reducing Faucet Tee
+14,Faucet Elbow
+15,Faucet Tee
+16,Faucet Socket Brass
+17,Faucet Elbow Brass
+18,Faucet Tee Brass
+19,Male Thread Endcap
+20,Swept Tee
+21,Single Y
+22,Door Bend 45
+23,Door Bend
+24,Door Tee
+25,Swept Door Tee
+26,Single Door Y

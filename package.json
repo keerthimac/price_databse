@@ -1,0 +1,30 @@
+{
+  "name": "price_databse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server": "nodemon index.js",
+    "clientInstall": "npm install --prefix client",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keerthimac/price_databse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keerthimac/price_databse/issues"
+  },
+  "homepage": "https://github.com/keerthimac/price_databse#readme",
+  "description": "",
+  "dependencies": {
+    "concurrently": "^7.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "mysql2": "^2.3.3"
+  }
+}

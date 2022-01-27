@@ -20,6 +20,13 @@ SELECT bank_name,
     branch_location
 FROM banks AS bk
     LEFT JOIN branches AS br ON bk.bank_code = br.bank_code;
+--@BLOCK
+SELECT bank_name,
+    branch_code,
+    branch_location
+FROM banks AS bk
+    LEFT JOIN branches AS br ON bk.bank_code = br.bank_code
+WHERE bk.bank_code = 7135;
 --@block
 DROP TABLE branches;
 --@block

@@ -10,7 +10,7 @@ function BankDropdown() {
     bank_name: "--Select Bank--",
   });
   const [branch, setBranch] = useState({
-    branch_id:0,
+    branch_id: 0,
     branch_code: 0,
     branch_location: "--Select Branch--",
   });
@@ -77,15 +77,14 @@ function BankDropdown() {
   };
 
   return (
-    <div className="container">
+    <div className='container'>
       <h1>Dropdown</h1>
 
       <DropdownButton
-        id="dropdown-basic-button"
+        id='dropdown-basic-button'
         title={bank.bank_name}
         onSelect={handleSelectBank}
-        onClick={handleClick}
-      >
+        onClick={handleClick}>
         {bankList.map((item) => (
           <Dropdown.Item key={item.bank_code} eventKey={item.bank_name}>
             {item.bank_name}
@@ -93,11 +92,10 @@ function BankDropdown() {
         ))}
       </DropdownButton>
       <DropdownButton
-        id="dropdown-basic-button"
+        id='dropdown-basic-button'
         title={branch.branch_location}
         onSelect={handleSelectBranch}
-        className="mt-3"
-      >
+        className='mt-3'>
         {branchList.map((item) => (
           <Dropdown.Item key={item.branch_id} eventKey={item.branch_location}>
             {item.branch_location}

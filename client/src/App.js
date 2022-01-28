@@ -3,8 +3,10 @@ import DropdownButton from "react-bootstrap/DropdownButton";
 import { useEffect, useState } from "react";
 import Form from "react-bootstrap/Form";
 import Button from "react-bootstrap/Button";
+
 import BankFrom from "./components/BankFrom";
 import BankDropdown from "./components/BankDropdown";
+import ReactSelect from "./components/ReactSelect";
 
 function App() {
   // const [bank, setBank] = useState({
@@ -88,8 +90,9 @@ function App() {
   // };
 
   return (
-    <div className="container">
-      <BankFrom />
+    <div className='container'>
+      <ReactSelect />
+      {/* <BankFrom /> */}
       {/* <BankDropdown /> */}
       {/* <h1>Dropdown</h1>
 

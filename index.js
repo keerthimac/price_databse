@@ -10,6 +10,7 @@ app.use(express.json());
 //routes
 
 app.use("/banks", require("./routes/banks"));
+app.use("/province", require("./routes/location"));
 
 const port = process.env.PORT || 5000;
 app.listen(port, () => console.log(`Listening on port ${port}`));

@@ -1,7 +1,9 @@
 import { useEffect, useState } from "react";
+
+import InputGroup from "react-bootstrap/InputGroup";
+import FormControl from "react-bootstrap/FormControl";
 import Form from "react-bootstrap/Form";
 import Button from "react-bootstrap/Button";
-import Select from "react-select";
 
 function BankFrom() {
   const [bank, setBank] = useState({
@@ -91,8 +93,17 @@ function BankFrom() {
   };
 
   return (
-    <div className='container'>
-      <Form>
+    <>
+      <div className='mt-5'>
+        <h4 className='mb-3'>Account Information</h4>
+        <Form.Label>Account Name</Form.Label>
+        <InputGroup className='mb-3'>
+          <FormControl
+            placeholder='Username'
+            aria-label='Username'
+            aria-describedby='basic-addon1'
+          />
+        </InputGroup>
         <Form.Group className='mb-3'>
           <Form.Label>Bank</Form.Label>
           <Form.Select onChange={handleSelectBank}>
@@ -101,7 +112,6 @@ function BankFrom() {
             ))}
           </Form.Select>
         </Form.Group>
-
         <Form.Group className='mb-3'>
           <Form.Label>Branch</Form.Label>
           <Form.Select onChange={handleSelectBranch}>
@@ -110,12 +120,8 @@ function BankFrom() {
             ))}
           </Form.Select>
         </Form.Group>
-        <Button variant='primary' type='submit'>
-          Submit
-        </Button>
-      </Form>
-      <Select bankList={bankList} />
-    </div>
+      </div>
+    </>
   );
 }
 

@@ -3,7 +3,7 @@ import SupplierInfo from "./components/SupplierInfo";
 function App() {
   return (
     <div className='container my-5'>
-      <h1 className='text-center'>Bank From</h1>
+      <h1 className='text-center'>Supplier Registration From</h1>
       <div className='container'>
         <SupplierInfo />
       </div>

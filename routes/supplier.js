@@ -31,15 +31,16 @@ router.get("/:id", async (req, res) => {
   }
 });
 
-router.post("/:id", async (req, res) => {
+//Register supplier
+router.post("/sup_name", async (req, res) => {
   try {
-    const { id } = req.params;
+    const { supName } = req.body;
     //destructure the body here
+    //console.log(supName);
 
     const response = await pool.query(
-      "SELECT * FROM suppliers AS sup LEFT JOIN supplier_addresses AS addr ON sup.supplier_id = addr.supplier_id LEFT JOIN supplier_contacts AS con ON sup.supplier_id = con.supplier_id LEFT JOIN supplier_accounts as acc ON sup.supplier_id = acc.supplier_id WHERE sup.supplier_id = ?",
-      [id]
-      //"SELECT * FROM suppliers AS sup LEFT JOIN supplier_addresses AS addr ON sup.supplier_id = addr.supplier_id LEFT JOIN supplier_contacts AS con ON sup.supplier_id = con.supplier_id LEFT JOIN supplier_accounts as acc ON sup.supplier_id = acc.supplier_id"
+      "INSERT INTO suppliers (supplier_name) VALUES (?)",
+      [supName]
     );
     res.json(response[0]);
   } catch (err) {

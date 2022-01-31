@@ -5,6 +5,8 @@ import BankFrom from "./BankFrom";
 import ContactFrom from "./ContactFrom";
 import SupplierName from "./SupplierName";
 
+import Button from "react-bootstrap/Button";
+
 function SupplierInfo() {
   const [supName, setSupName] = useState("");
   const [supContact, setSupContact] = useState({
@@ -38,6 +40,26 @@ function SupplierInfo() {
     setSupBank(bank);
   };
 
+  const handleSubmit = async () => {
+    try {
+      const data = {
+        supName,
+        supContact,
+        supLocation,
+        supBank,
+      };
+
+      const response = await fetch("http://localhost:5000/sup_name", {
+        method: "POST",
+        body: JSON.stringify(supName),
+      });
+      const body = await response.json();
+      console.log(body);
+    } catch (error) {
+      console.error(error.message);
+    }
+  };
+
   return (
     <div>
       <SupplierName getSupplierName={getSupplierName} supName={supName} />
@@ -50,6 +72,16 @@ function SupplierInfo() {
         supLocation={supLocation}
       />
       <BankFrom getSupplierBank={getSupplierBank} supBank={supBank} />
+      <div className="d-grid gap-2 mt-4">
+        <Button
+          onClick={handleSubmit}
+          type="submit"
+          variant="primary"
+          size="lg"
+        >
+          Register User
+        </Button>
+      </div>
     </div>
   );
 }

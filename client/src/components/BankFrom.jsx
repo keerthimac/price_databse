@@ -5,7 +5,12 @@ import FormControl from "react-bootstrap/FormControl";
 import Form from "react-bootstrap/Form";
 import Button from "react-bootstrap/Button";
 
-function BankFrom() {
+function BankFrom({ getSupplierBank, supBank }) {
+  const handleChange = (e) => {
+    const { name, value } = e.target;
+    getSupplierBank({ ...supBank, [name]: value });
+  };
+
   const [bank, setBank] = useState({
     bank_code: 0,
     bank_name: "--Select Bank--",
@@ -79,6 +84,8 @@ function BankFrom() {
         setBank(result[0]);
       };
       selectBank(e.target.value);
+      const { name, value } = e.target;
+      getSupplierBank({ ...supBank, [name]: value });
     }
   };
 
@@ -90,6 +97,8 @@ function BankFrom() {
       setBranch(result[0]);
     };
     selectBranch(e.target.value);
+    const { name, value } = e.target;
+    getSupplierBank({ ...supBank, [name]: value });
   };
 
   return (
@@ -99,14 +108,16 @@ function BankFrom() {
         <Form.Label>Account Name</Form.Label>
         <InputGroup className='mb-3'>
           <FormControl
+            name='account_name'
             placeholder='Username'
             aria-label='Username'
             aria-describedby='basic-addon1'
+            onChange={handleChange}
           />
         </InputGroup>
         <Form.Group className='mb-3'>
           <Form.Label>Bank</Form.Label>
-          <Form.Select onChange={handleSelectBank}>
+          <Form.Select name='bank_name' onChange={handleSelectBank}>
             {bankList.map((item) => (
               <option key={item.bank_code}>{item.bank_name}</option>
             ))}
@@ -114,7 +125,7 @@ function BankFrom() {
         </Form.Group>
         <Form.Group className='mb-3'>
           <Form.Label>Branch</Form.Label>
-          <Form.Select onChange={handleSelectBranch}>
+          <Form.Select name='branch_location' onChange={handleSelectBranch}>
             {branchList.map((item) => (
               <option key={item.branch_id}>{item.branch_location}</option>
             ))}

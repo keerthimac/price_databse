@@ -4,7 +4,12 @@ import Form from "react-bootstrap/Form";
 import InputGroup from "react-bootstrap/InputGroup";
 import FormControl from "react-bootstrap/FormControl";
 
-function LocationForm() {
+function LocationForm({ getSupplierLocation, supLocation }) {
+  const handleChange = (e) => {
+    const { name, value } = e.target;
+    getSupplierLocation({ ...supLocation, [name]: value });
+  };
+
   const [province, setProvince] = useState({
     province_id: 0,
     province_name: "--Select Province--",
@@ -108,6 +113,9 @@ function LocationForm() {
       selectProvince(e.target.value);
       setDistrict({ district_id: 0, district_name: "--Select District--" });
       setCity({ city_id: 0, city_name: "--Select City--" });
+
+      const { name, value } = e.target;
+      getSupplierLocation({ ...supLocation, [name]: value });
     }
   };
 
@@ -122,6 +130,8 @@ function LocationForm() {
         setDistrict(result[0]);
       };
       selectDistrict(e.target.value);
+      const { name, value } = e.target;
+      getSupplierLocation({ ...supLocation, [name]: value });
     }
   };
 
@@ -133,6 +143,8 @@ function LocationForm() {
       setCity(result[0]);
     };
     selectCity(e.target.value);
+    const { name, value } = e.target;
+    getSupplierLocation({ ...supLocation, [name]: value });
   };
 
   return (
@@ -142,22 +154,26 @@ function LocationForm() {
         <Form.Label>Address Line 01</Form.Label>
         <InputGroup className='mb-3'>
           <FormControl
+            name='address_01'
             placeholder='Username'
             aria-label='Username'
             aria-describedby='basic-addon1'
+            onChange={handleChange}
           />
         </InputGroup>
         <Form.Label>Address Line 02</Form.Label>
         <InputGroup className='mb-3'>
           <FormControl
+            name='address_02'
             placeholder='Username'
             aria-label='Username'
             aria-describedby='basic-addon1'
+            onChange={handleChange}
           />
         </InputGroup>
         <Form.Group className='mb-3'>
           <Form.Label>Province</Form.Label>
-          <Form.Select onChange={handleSelectProvince}>
+          <Form.Select name='province' onChange={handleSelectProvince}>
             {provinceList.map((item) => (
               <option key={item.province_id}>{item.province_name}</option>
             ))}
@@ -166,7 +182,7 @@ function LocationForm() {
 
         <Form.Group className='mb-3'>
           <Form.Label>District</Form.Label>
-          <Form.Select onChange={handleSelectDistrict}>
+          <Form.Select name='district' onChange={handleSelectDistrict}>
             {districtList.map((item) => (
               <option key={item.district_id}>{item.district_name}</option>
             ))}
@@ -175,7 +191,7 @@ function LocationForm() {
 
         <Form.Group className='mb-3'>
           <Form.Label>City</Form.Label>
-          <Form.Select onChange={handleSelectCity}>
+          <Form.Select name='city' onChange={handleSelectCity}>
             {cityList.map((item) => (
               <option key={item.city_id}>{item.city_name}</option>
             ))}

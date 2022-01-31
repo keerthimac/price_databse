@@ -36,11 +36,65 @@ router.post("/sup_name", async (req, res) => {
   try {
     const { supName } = req.body;
     //destructure the body here
-    //console.log(supName);
+    console.log(supName);
 
     const response = await pool.query(
       "INSERT INTO suppliers (supplier_name) VALUES (?)",
       [supName]
+    );
+    res.json(response[0]);
+  } catch (err) {
+    console.error(err.message);
+  }
+});
+
+router.post("/sup_contact", async (req, res) => {
+  try {
+    console.log(req.body);
+    //destructure the body here
+    const {
+      contact_person,
+      contact_role,
+      contact_tel,
+      contact_email,
+      supplier_id,
+    } = req.body;
+
+    const response = await pool.query(
+      "INSERT INTO supplier_contacts (supplier_id,contact_name,contact_role,contact_phone,contact_email) VALUES (?,?,?,?,?)",
+      [supplier_id, contact_person, contact_role, contact_tel, contact_email]
+    );
+    res.json(response[0]);
+  } catch (err) {
+    console.error(err.message);
+  }
+});
+
+router.post("/sup_location", async (req, res) => {
+  try {
+    console.log(req.body);
+    //destructure the body here
+    const { supplier_id, address_01, address_02, city, district, province } =
+      req.body;
+
+    const response = await pool.query(
+      "INSERT INTO supplier_addresses (supplier_id,address_01,address_02,city,district,province) VALUES (?,?,?,?,?,?)",
+      [supplier_id, address_01, address_02, city, district, province]
+    );
+    res.json(response[0]);
+  } catch (err) {
+    console.error(err.message);
+  }
+});
+
+router.post("/sup_bank", async (req, res) => {
+  try {
+    const { account_name, bank_name, branch_location, supplier_id } = req.body;
+    console.log(req.body);
+
+    const response = await pool.query(
+      "INSERT INTO supplier_accounts (supplier_id,account_name,account_bank,account_branch) VALUES (?,?,?,?)",
+      [supplier_id, account_name, bank_name, branch_location]
     );
     res.json(response[0]);
   } catch (err) {

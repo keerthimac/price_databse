@@ -7,7 +7,8 @@ import FormControl from "react-bootstrap/FormControl";
 
 function SupplierName({ getSupplierName, supName }) {
   const handleChange = (e) => {
-    getSupplierName(e.target.value);
+    const { name, value } = e.target;
+    getSupplierName({ ...supName, [name]: value });
   };
 
   return (
@@ -15,10 +16,10 @@ function SupplierName({ getSupplierName, supName }) {
       <Form.Label>Supplier Name</Form.Label>
       <InputGroup className='mb-3'>
         <FormControl
+          name='supName'
           placeholder='Username'
           aria-label='Username'
           aria-describedby='basic-addon1'
-          value={supName}
           onChange={handleChange}
         />
       </InputGroup>

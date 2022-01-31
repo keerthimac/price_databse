@@ -30,3 +30,8 @@ CREATE TABLE supplier_accounts (
   account_branch VARCHAR(100),
   FOREIGN KEY (supplier_id) REFERENCES suppliers(supplier_id)
 );
+
+DROP TABLE IF EXISTS supplier_accounts;
+DROP TABLE IF EXISTS supplier_contacts;
+DROP TABLE IF EXISTS supplier_addresses;
+DROP TABLE IF EXISTS suppliers;

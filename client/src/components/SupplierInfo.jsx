@@ -42,19 +42,49 @@ function SupplierInfo() {
 
   const handleSubmit = async () => {
     try {
-      const data = {
-        supName,
-        supContact,
-        supLocation,
-        supBank,
-      };
-
-      const response = await fetch("http://localhost:5000/sup_name", {
+      const response1 = await fetch("http://localhost:5000/supplier/sup_name", {
         method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
         body: JSON.stringify(supName),
       });
-      const body = await response.json();
-      console.log(body);
+      const data = await response1.json();
+      const supId = { supplier_id: data.insertId };
+      console.log(supId);
+
+      const response2 = await fetch(
+        "http://localhost:5000/supplier/sup_contact",
+        {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({ ...supContact, ...supId }),
+        }
+      );
+      const data2 = await response2.json();
+
+      const response3 = await fetch(
+        "http://localhost:5000/supplier/sup_location",
+        {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({ ...supLocation, ...supId }),
+        }
+      );
+      const data3 = await response3.json();
+
+      const response4 = await fetch("http://localhost:5000/supplier/sup_bank", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ ...supBank, ...supId }),
+      });
+      const data4 = await response4.json();
     } catch (error) {
       console.error(error.message);
     }
@@ -72,13 +102,12 @@ function SupplierInfo() {
         supLocation={supLocation}
       />
       <BankFrom getSupplierBank={getSupplierBank} supBank={supBank} />
-      <div className="d-grid gap-2 mt-4">
+      <div className='d-grid gap-2 mt-4'>
         <Button
           onClick={handleSubmit}
-          type="submit"
-          variant="primary"
-          size="lg"
-        >
+          type='submit'
+          variant='primary'
+          size='lg'>
           Register User
         </Button>
       </div>

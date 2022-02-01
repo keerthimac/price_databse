@@ -89,12 +89,18 @@ router.post("/sup_location", async (req, res) => {
 
 router.post("/sup_bank", async (req, res) => {
   try {
-    const { account_name, bank_name, branch_location, supplier_id } = req.body;
+    const {
+      account_name,
+      account_number,
+      bank_name,
+      branch_location,
+      supplier_id,
+    } = req.body;
     console.log(req.body);
 
     const response = await pool.query(
-      "INSERT INTO supplier_accounts (supplier_id,account_name,account_bank,account_branch) VALUES (?,?,?,?)",
-      [supplier_id, account_name, bank_name, branch_location]
+      "INSERT INTO supplier_accounts (supplier_id,account_name,account_number,account_bank,account_branch) VALUES (?,?,?,?,?)",
+      [supplier_id, account_name, account_number, bank_name, branch_location]
     );
     res.json(response[0]);
   } catch (err) {

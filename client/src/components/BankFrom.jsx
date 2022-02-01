@@ -115,6 +115,17 @@ function BankFrom({ getSupplierBank, supBank }) {
             onChange={handleChange}
           />
         </InputGroup>
+        <Form.Label>Account Number</Form.Label>
+        <InputGroup className='mb-3'>
+          <FormControl
+            name='account_number'
+            placeholder='Username'
+            aria-label='Username'
+            aria-describedby='basic-addon1'
+            type='number'
+            onChange={handleChange}
+          />
+        </InputGroup>
         <Form.Group className='mb-3'>
           <Form.Label>Bank</Form.Label>
           <Form.Select name='bank_name' onChange={handleSelectBank}>

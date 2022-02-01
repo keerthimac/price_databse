@@ -16,6 +16,7 @@ function SupplierName({ getSupplierName, supName }) {
       <Form.Label>Supplier Name</Form.Label>
       <InputGroup className='mb-3'>
         <FormControl
+          value={supName.sup_name}
           name='supName'
           placeholder='Username'
           aria-label='Username'

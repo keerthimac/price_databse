@@ -7,8 +7,9 @@ import FormControl from "react-bootstrap/FormControl";
 function ContactFrom({ getSupplierContact, supContact }) {
   const handleChange = (e) => {
     const { name, value } = e.target;
-    getSupplierContact({ ...supContact, [name]: value });
+    getSupplierContact({ [name]: value });
   };
+  //console.log(supContact.contact_person);
 
   return (
     <div className='mt-5'>
@@ -16,6 +17,7 @@ function ContactFrom({ getSupplierContact, supContact }) {
       <Form.Label>Contact Person</Form.Label>
       <InputGroup className='mb-3'>
         <FormControl
+          value={supContact.contact_person}
           name='contact_person'
           placeholder='Username'
           aria-label='Username'

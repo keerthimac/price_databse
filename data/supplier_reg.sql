@@ -26,6 +26,7 @@ CREATE TABLE supplier_accounts (
   account_id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
   supplier_id INT NOT NULL,
   account_name VARCHAR(100),
+  account_number VARCHAR(100),
   account_bank VARCHAR(100),
   account_branch VARCHAR(100),
   FOREIGN KEY (supplier_id) REFERENCES suppliers(supplier_id)

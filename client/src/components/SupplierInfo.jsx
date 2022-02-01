@@ -9,19 +9,8 @@ import Button from "react-bootstrap/Button";
 
 function SupplierInfo() {
   const [supName, setSupName] = useState("");
-  const [supContact, setSupContact] = useState({
-    contact_person: "",
-    contact_role: "",
-    contact_tel: "",
-    contact_email: "",
-  });
-  const [supLocation, setSupLocation] = useState({
-    address_01: "",
-    address_02: "",
-    province: "",
-    district: "",
-    city: "",
-  });
+  const [supContact, setSupContact] = useState("");
+  const [supLocation, setSupLocation] = useState("");
   const [supBank, setSupBank] = useState("");
 
   const getSupplierName = (name) => {

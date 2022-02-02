@@ -113,7 +113,7 @@ function SupplierInfo() {
         supLocation={supLocation}
       />
       <BankFrom getSupplierBank={getSupplierBank} supBank={supBank} />
-      <div className='d-grid gap-2 mt-4'>
+      <div className='btn btn-secondary '>
         <Button
           onClick={handleSubmit}
           type='submit'

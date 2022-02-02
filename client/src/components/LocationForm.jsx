@@ -154,6 +154,7 @@ function LocationForm({ getSupplierLocation, supLocation }) {
         <Form.Label>Address Line 01</Form.Label>
         <InputGroup className='mb-3'>
           <FormControl
+            value={supLocation.address_01}
             name='address_01'
             placeholder='Username'
             aria-label='Username'
@@ -164,6 +165,7 @@ function LocationForm({ getSupplierLocation, supLocation }) {
         <Form.Label>Address Line 02</Form.Label>
         <InputGroup className='mb-3'>
           <FormControl
+            value={supLocation.address_02}
             name='address_02'
             placeholder='Username'
             aria-label='Username'
@@ -173,7 +175,10 @@ function LocationForm({ getSupplierLocation, supLocation }) {
         </InputGroup>
         <Form.Group className='mb-3'>
           <Form.Label>Province</Form.Label>
-          <Form.Select name='province' onChange={handleSelectProvince}>
+          <Form.Select
+            name='province'
+            onChange={handleSelectProvince}
+            value={supLocation.province}>
             {provinceList.map((item) => (
               <option key={item.province_id}>{item.province_name}</option>
             ))}
@@ -182,7 +187,10 @@ function LocationForm({ getSupplierLocation, supLocation }) {
 
         <Form.Group className='mb-3'>
           <Form.Label>District</Form.Label>
-          <Form.Select name='district' onChange={handleSelectDistrict}>
+          <Form.Select
+            name='district'
+            onChange={handleSelectDistrict}
+            value={supLocation.district}>
             {districtList.map((item) => (
               <option key={item.district_id}>{item.district_name}</option>
             ))}
@@ -191,7 +199,10 @@ function LocationForm({ getSupplierLocation, supLocation }) {
 
         <Form.Group className='mb-3'>
           <Form.Label>City</Form.Label>
-          <Form.Select name='city' onChange={handleSelectCity}>
+          <Form.Select
+            name='city'
+            onChange={handleSelectCity}
+            value={supLocation.city}>
             {cityList.map((item) => (
               <option key={item.city_id}>{item.city_name}</option>
             ))}

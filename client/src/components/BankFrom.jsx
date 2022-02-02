@@ -108,6 +108,7 @@ function BankFrom({ getSupplierBank, supBank }) {
         <Form.Label>Account Name</Form.Label>
         <InputGroup className='mb-3'>
           <FormControl
+            value={supBank.account_name}
             name='account_name'
             placeholder='Username'
             aria-label='Username'
@@ -118,6 +119,7 @@ function BankFrom({ getSupplierBank, supBank }) {
         <Form.Label>Account Number</Form.Label>
         <InputGroup className='mb-3'>
           <FormControl
+            value={supBank.account_number}
             name='account_number'
             placeholder='Username'
             aria-label='Username'
@@ -128,7 +130,10 @@ function BankFrom({ getSupplierBank, supBank }) {
         </InputGroup>
         <Form.Group className='mb-3'>
           <Form.Label>Bank</Form.Label>
-          <Form.Select name='bank_name' onChange={handleSelectBank}>
+          <Form.Select
+            name='bank_name'
+            onChange={handleSelectBank}
+            value={supBank.bank_name}>
             {bankList.map((item) => (
               <option key={item.bank_code}>{item.bank_name}</option>
             ))}
@@ -136,7 +141,10 @@ function BankFrom({ getSupplierBank, supBank }) {
         </Form.Group>
         <Form.Group className='mb-3'>
           <Form.Label>Branch</Form.Label>
-          <Form.Select name='branch_location' onChange={handleSelectBranch}>
+          <Form.Select
+            name='branch_location'
+            onChange={handleSelectBranch}
+            value={supBank.branch_location}>
             {branchList.map((item) => (
               <option key={item.branch_id}>{item.branch_location}</option>
             ))}

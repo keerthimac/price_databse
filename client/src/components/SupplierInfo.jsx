@@ -6,6 +6,7 @@ import ContactFrom from "./ContactFrom";
 import SupplierName from "./SupplierName";
 
 import Button from "react-bootstrap/Button";
+import { useEffect } from "react";
 
 function SupplierInfo() {
   const [supName, setSupName] = useState("");
@@ -74,6 +75,27 @@ function SupplierInfo() {
         body: JSON.stringify({ ...supBank, ...supId }),
       });
       const data4 = await response4.json();
+
+      setSupName({ supName: "" });
+      setSupContact({
+        contact_person: "",
+        contact_role: "",
+        contact_tel: "",
+        contact_email: "",
+      });
+      setSupLocation({
+        address_01: "",
+        address_02: "",
+        province: "",
+        district: "",
+        city: "",
+      });
+      setSupBank({
+        bank_name: "",
+        branch_location: "",
+        account_number: "",
+        account_name: "",
+      });
     } catch (error) {
       console.error(error.message);
     }

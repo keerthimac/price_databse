@@ -7,7 +7,7 @@ import FormControl from "react-bootstrap/FormControl";
 function ContactFrom({ getSupplierContact, supContact }) {
   const handleChange = (e) => {
     const { name, value } = e.target;
-    getSupplierContact({ [name]: value });
+    getSupplierContact({ ...supContact, [name]: value });
   };
   //console.log(supContact.contact_person);
 
@@ -28,7 +28,10 @@ function ContactFrom({ getSupplierContact, supContact }) {
 
       <Form.Group className='mb-3'>
         <Form.Label>Role</Form.Label>
-        <Form.Select name='contact_role' onChange={handleChange}>
+        <Form.Select
+          name='contact_role'
+          onChange={handleChange}
+          value={supContact.contact_role}>
           <option>---Select Role---</option>
           <option>Owner</option>
           <option>Sales Representative</option>
@@ -39,6 +42,7 @@ function ContactFrom({ getSupplierContact, supContact }) {
       <Form.Label>Telephone number</Form.Label>
       <InputGroup className='mb-3'>
         <FormControl
+          value={supContact.contact_tel}
           name='contact_tel'
           placeholder='Username'
           aria-label='Username'
@@ -50,6 +54,7 @@ function ContactFrom({ getSupplierContact, supContact }) {
       <Form.Label>Email</Form.Label>
       <InputGroup className='mb-3'>
         <FormControl
+          value={supContact.contact_email}
           name='contact_email'
           placeholder='Username'
           aria-label='Username'
